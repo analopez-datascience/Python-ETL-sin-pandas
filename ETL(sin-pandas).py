@@ -1,4 +1,4 @@
-Llegir un conjunt de dades d'alumnes ficticis i crear un CSV net.
+""" Llegir un conjunt de dades d'alumnes ficticis i crear un CSV net.
 Treballarem quatre problemes habituals:
   1. Valors absents (missing values).
   2. Espais innecessaris abans o després dels valors.
@@ -8,7 +8,7 @@ Treballarem quatre problemes habituals:
 Escriure conjunt de dades net en arxiu de sortida
 
 
---------------------
+-------------------- """
 
 sales_data = [
     {'Product ID': 'abc123',  'Units Sold': 10,     'Revenue USD': 1250.0, 'Date': '2023-01-01'},
