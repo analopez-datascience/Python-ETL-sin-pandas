@@ -1,0 +1,2651 @@
+﻿id_alumne;ciutat;edat;hores_estudi_setmana;nota_final;assistencia_pct;modalitat
+A00409;Tarragona;48;3;8.9;88;Híbrida
+A00852;Girona;46;4;-2.0;84;Online
+A02060;Vic;63;28;9.0;48;Online
+A00234;Girona;53;24;;95;Presencial
+A00039;Terrassa;26;7;;40;Presencial
+A00201;Tarragona;61;28;13.5;49;Online
+A00400;Sabadell;55;22;8.7;71;Online
+A01645;Manresa;41;2;2.1;84;
+A01741;Lleida;17;21;3.8;57;Híbrida
+A02248;Lleida;22;23;2.0;51;Online
+A01029;Vic;31;7;4.0;100;Presencial
+A00996;Manresa;47;180;1.3;75;Presencial
+A00106;Lleida;22;3;0.1;51;Online
+A00257;Girona;47;28;1.9;71;Híbrida
+A02482;Girona;;9;5.6;135;Presencial
+A01883;Lleida;23;20;1.7;69;Online
+A01553;Tarragona;63;3;6.4;76;Híbrida
+A01255;Lleida;48;18;5.2;41;Presencial
+A00089;Tarragona;64;-5;6.6;95;Online
+A01368; Reus  ;53;10;6.3;86;Presencial
+A01276;Girona;44;;2.7;40;Online
+A00897;Reus;47;10;;100;  Presencial 
+A02019;Lleida;21;22;2.2;63;Híbrida
+A01444; Terrassa  ;45;0;8.9;80;Online
+A01571;Lleida;29;21;5.0;64;Presencial
+A01149;Manresa;59;2;6.3;83;Híbrida
+A00093;;61;16;4.7;57;Online
+A01164;   ;49;1;2.8;43;Híbrida
+A01785;Girona;;20;2.8;67;Presencial
+A02469;Mataró;42;2;7.0;100;Híbrida
+A02347;Mataró;44;1;3.5;86;Híbrida
+A01295;Tarragona;31;10; 9.6 ;69;Online
+A00540;Vic;26;11;6.1;53;Presencial
+A00111;Reus;33;29; 6.6 ;53;Presencial
+A00850;Girona;;9;0.8;93;Híbrida
+A02405;Mataró;23;34;  ;96;Online
+A00946;Lleida;63;35;5.1;;Híbrida
+A01792;Manresa;64;27;8.9;45;Online
+A00611;Reus;60;9;;50;
+A00259;Vic;57;1; 3.1 ;85;Online
+A00457;Sabadell;39;32;4.7;75;Online
+A01492;Sabadell;62;29;9.5;87;Presencial
+A00617;Sabadell;55;11;0.2;77;Online
+A00954;Terrassa;25;25;1.6;68;Híbrida
+A00223;Sabadell;27;13;7.9;60;Híbrida
+A01932;Tarragona;58;8;8.7;51;  Híbrida 
+A00887;Tarragona;28;33;9.7;51;Presencial
+A01422;Reus;28;13;2.3;-10;Online
+A01113;Tarragona;57;1;7.8;51;Híbrida
+A02071; Manresa  ;41;10;9.3;60;Online
+A01819;Vic;;30;7.7;70;Híbrida
+A00951;Terrassa;25;14;6.9;100;Presencial
+A02496;Girona;64;1;;74;Presencial
+A01676;Manresa;35;18;6.9;77;Presencial
+A01133;Reus;39;6;4.9;68;Híbrida
+A00447;Lleida;38;25;9.2;93;Híbrida
+A02264;Vic;24;20;4.5;72;Híbrida
+A01014;Lleida;33;16;;99;Presencial
+A02146;Barcelona;37;; 2.9 ;44;Presencial
+A00781;Vic;26;23;-2.0;80;Presencial
+A02251;Vic;30;23;0.1;77;Online
+A01771;Barcelona;40;16;7.2;44;  Presencial 
+A00051;Barcelona;;17;0.3;91;Online
+A01701;Terrassa;32;6;2.0;42;Presencial
+A02490;Barcelona;29;180;9.2;87;Presencial
+A02173;Terrassa; 31 ;19;6.6;72;Híbrida
+A00143;Vic;60;14;;91;Presencial
+A01958;Barcelona;40;-5;4.9;61;Online
+A01390;Girona;60;18;7.4;53;Híbrida
+A01148;Terrassa; 58 ;33;1.3;100;Presencial
+A00189;Manresa;45;14;8.0;42;Híbrida
+A01992;Mataró;18;180;2.8;58;Híbrida
+A00291;   ;44;13;6.1;83;Online
+A01706;Manresa;25;26;5.8;59;Online
+A02088;Tarragona;62;;1.2;81;Híbrida
+A00279;;48;15;6.9;51;Presencial
+A00857;Lleida;46;4;3.3;40;Presencial
+A02073;Tarragona;39;18;3.2;84;Híbrida
+A01720;Mataró;22;19;0.4;;Presencial
+A02410;Vic;61;2;1.8;50;Híbrida
+A01505;Terrassa;47;16;9.2;;Online
+A02213;Lleida;62;20;0.1;62;Híbrida
+A02117;Girona;56;;9.3;135;Presencial
+A01346;Vic;27;4;2.6;80;Online
+A00981;Sabadell;57;29;1.2;49;Híbrida
+A00038; Lleida  ;49;13;4.5;95;Híbrida
+A02022;Barcelona;37;0;7.9;99;Online
+A01306;Sabadell;64;2;5.6;69;Híbrida
+A01308;Mataró;54;7;0.8;83;Online
+A00405;Manresa;43;4;8.5;44;Presencial
+A00941;Manresa;54;4;9.7;94;Presencial
+A01668;Tarragona;32;34;6.7;96;Presencial
+A02236;Vic;49;30;;;Online
+A00270;Reus;20;13;3.3;43;Presencial
+A01731;Vic;35;4;9.3;71;Híbrida
+A00343;Lleida;43;32;8.9;86;Híbrida
+A02219;Mataró;60;20;7.3;93;Presencial
+A01552;   ;50;33;9.8;85;Híbrida
+A00360;Manresa;60;19;10.0;76;Híbrida
+A01793;Manresa;19;8;4.4;54;Presencial
+A00477;Reus;65;19;3.8;98;Presencial
+A00711;Girona;49;19;7.2;-10;Híbrida
+A02232;;45;10;7.0;95;Presencial
+A00643;Girona;51;3;9.1;78;Híbrida
+A00326;Reus;61;0;9.3;84;Presencial
+A02094;Vic;36;28;1.6;57;Híbrida
+A00876;Terrassa;26;7;0.1;135;Online
+A00086;Mataró;23;30;1.1;;Presencial
+A00904;Girona;59;20;4.1;56;Híbrida
+A00886;Terrassa;65;22;5.3;86;Presencial
+A01243;Barcelona;24;30;7.2;84;Presencial
+A00171; Lleida  ;42;30;1.6;64;Online
+A00222;Manresa;24;34; 4.1 ;65;Online
+A00824;Lleida;46;21;3.4;59;Online
+A02247;Vic;65;18;1.8;66;Online
+A00164;Sabadell; 51 ;20;9.5;64;Online
+A00311;Reus;57;35;0.0;89;Presencial
+A00383;Vic;23;35;0.7;78;Híbrida
+A02303;Girona;60;33;7.4;85;
+A02460;Lleida; 64 ;23;1.9;79;Presencial
+A01253;Terrassa;30;15;5.8;49;Presencial
+A01736;;65;19;0.5;75;Online
+A01702;Reus;23;14; 8.1 ;40;  Online 
+A01540;Lleida;57;20;5.7;91;Online
+A01242;Reus;32;16;2.9;46;  Online 
+A00139;Manresa;56;9;3.8;48;Online
+A01664;Manresa;30;31;;87;Presencial
+A01417;Terrassa;25;11;;69;Presencial
+A00652;Mataró;45;34;3.0;73;Híbrida
+A00738;Lleida; 24 ;23;0.5;92;Presencial
+A01604;Tarragona;25;35;1.0;72;Híbrida
+A01672; Reus  ;54;13;7.8;75;Presencial
+A01242;Reus;32;16;2.9;46;  Online 
+A01800;Reus;35;12;8.2;81;Online
+A02050;Sabadell; 50 ;8;0.3;82;Híbrida
+A00582;   ;57;27;9.8;58;Online
+A00765;Tarragona;;30;7.5;90;Presencial
+A02325;;17;3;6.3;63;Online
+A00370;Barcelona;32;26; 6.9 ;52;Presencial
+A00691;Terrassa;30;11;5.1;97;Presencial
+A01142;Lleida;46;6;5.4;42;Presencial
+A00802;Barcelona;42;4;9.1;96;Online
+A00060;Manresa;43;1;3.9;99;Presencial
+A00663;Sabadell;;24;;83;Online
+A02131;Reus;27;9;8.3;82;Presencial
+A01030;Mataró;37;2;1.2;99;Híbrida
+A00475; Manresa  ;60;25;1.2;68;Online
+A01577; Vic  ;29;180;3.4;75;Online
+A00349;Tarragona;49;6;3.7;63;Online
+A01196;Manresa;58;1;;93;  Online 
+A00539;Mataró;33;10;8.7;70;Híbrida
+A01481;Manresa;42;25;8.7;71;Híbrida
+A02111;Reus;60;19;2.2;58;Presencial
+A00535;Sabadell;53;9;7.1;77;Presencial
+A00800;Tarragona;17;10;4.8;95;Online
+A00536;Barcelona;59;8;13.5;71;Presencial
+A01341;Reus;17;25;0.1;72;Híbrida
+A02452;Lleida;22;0;6.2;100;Online
+A01743;Terrassa;44;180;0.8;91;Presencial
+A00283;Sabadell;18;28;0.2;61;Online
+A02376;Barcelona;21;33;8.9;58;Híbrida
+A01717;Sabadell;;28;0.0;53;  
+A02027;Tarragona;42;26;0.5;62;Online
+A01024;Mataró;24;14;8.3;90;Híbrida
+A02321;Barcelona;56;34;7.2;97;Híbrida
+A00776;   ;20;16;7.9;67;Online
+A00795;Manresa;58;20;2.4;73;Online
+A01975;Sabadell;50;24;2.4;-10;Híbrida
+A01217;Tarragona;28;17;5.5;76;Híbrida
+A01109;Manresa;50;35;4.3;57;Online
+A00087;Barcelona;56;;0.3;42;Híbrida
+A00538;Mataró;60;0;8.9;70;Online
+A00438;Barcelona;64;18;8.6;135;Híbrida
+A01964;Terrassa;39;16;9.9;99;Presencial
+A00945;Lleida;54;22;0.2;64;Online
+A00888;Reus;62;6; 2.8 ;47;Online
+A01894;Sabadell;17;18;5.1;66;Presencial
+A01732;Terrassa;48;25;0.5;66;Online
+A01561;Manresa;29;27;4.1;48;Online
+A01838;Tarragona;23;15;0.1;53;Presencial
+A00559;Barcelona;28;30;;;Presencial
+A01639;Manresa;21;21;5.5;55;Híbrida
+A02006;Sabadell;-4;10;0.5;55;Online
+A01770;Sabadell;-4;11;5.7;56;Presencial
+A00662;Reus;19;17;3.1;83;Presencial
+A00271;Sabadell;18;16;2.3;42;Híbrida
+A02137;Terrassa;54;26;8.7;87;Presencial
+A01299;Lleida;44;25;0.3;58;Presencial
+A01877;Lleida;48;10;8.8;80;Híbrida
+A01345;Mataró;30;8;2.4;98;Online
+A00740;Mataró;39;3; 6.3 ;56;Híbrida
+A01537;Lleida;33;;7.0;40;Híbrida
+A00851;Vic;42;1; 4.5 ;94;  Presencial 
+A00503;Sabadell;64;17;8.6;56;Online
+A01432;Mataró;29;20;7.5;74;Presencial
+A00272;Manresa;;19;8.3;81;Online
+A01283;Vic;35;30;2.0;58;Online
+A00899;;52;;8.7;88;Online
+A01163;Manresa;52;1;0.8;81;Híbrida
+A02487;Girona;55;0;5.1;85;Presencial
+A00202;Girona;43;26;0.5;79;  
+A01696;Sabadell;63;0;4.0;74;Presencial
+A02458;Lleida;52;17;5.1;53;Híbrida
+A00369;Reus; 25 ;7;9.9;67;Presencial
+A00020;Vic;35;17;0.2;60;Online
+A01019;Manresa;50;1;5.2;57;Presencial
+A00127;Reus;26;30;8.7;54;Híbrida
+A01839;Terrassa;22;31;8.1;84;Online
+A01322;Reus;64;5;4.8;57;Presencial
+A02007;Terrassa;38;4;2.3;90;Híbrida
+A01923;Sabadell;53;0;2.8;72;Presencial
+A02198;Reus;20;6;9.8;70;Presencial
+A01630;Barcelona;38;2;4.5;86;Online
+A01131;Manresa;65;;;51;Híbrida
+A01754;Manresa;41;20;7.6;40;Híbrida
+A02385;Manresa;21;18;4.5;55;Híbrida
+A00524;Mataró;50;4;4.6;96;Presencial
+A01548;Tarragona;55;19;5.8;;Online
+A00842;Barcelona;20;22;9.5;73;Online
+A00286;Girona;25;29;;89;Online
+A01878;Lleida;57;33;7.0;98;Presencial
+A00724;Vic;32;6;9.8;63;Híbrida
+A01857;Lleida;65;31;5.8;53;Online
+A00603;Reus;44;5;13.5;40;Presencial
+A00180;Manresa;16;31;5.4;86;Presencial
+A00462;Girona;44;20;7.0;82;Híbrida
+A01704;Manresa;32;18;-2.0;93;Online
+A00970;   ;46;15;5.6;97;Online
+A01661;Reus;26;27;6.9;87;Online
+A01709;Reus;40;4;6.4;62;Online
+A01326;Vic;;29;;69;Híbrida
+A01726;Terrassa;59;17;7.9;76;Presencial
+A00114; Reus  ;63;4;3.1;98;Híbrida
+A00807;Reus;36;10;5.3;69;Presencial
+A02491;Sabadell;52;22;1.8;67;
+A00330;Manresa;65;10;5.4;41;Híbrida
+A00176;Sabadell;38;15;6.4;50;Online
+A01830;Tarragona;140;25;0.5;86;Online
+A00869;Girona;45;35;6.2;-10;Presencial
+A02483;Mataró;45;9;;61;Presencial
+A00107;Barcelona;62;13;5.5;50;Híbrida
+A00057; Tarragona  ;48;19;7.1;91;Presencial
+A02269;Manresa;47;13;5.2;100;Online
+A00491;Mataró;35;9;2.5;60;Online
+A02310;Lleida;54;16;0.2;40;Híbrida
+A01047;Lleida;59;15;1.3;93;Online
+A00870;Sabadell;42;;1.4;75;Online
+A02240;Mataró;55;24;6.1;93;Presencial
+A00492;Barcelona; 20 ;6;9.9;62;Presencial
+A00507;Mataró;57;25;;75;Híbrida
+A00200;Lleida;55;27;3.3;90;Híbrida
+A02493;Tarragona;20;30;6.5;70;Presencial
+A00361; Vic  ;17;23;4.4;51;Presencial
+A00268;Sabadell;33;34;13.5;53;Presencial
+A00947;Sabadell;65;13;1.9;92;Presencial
+A00437; Manresa  ;40;6;2.4;61;  Híbrida 
+A02298;Girona;35;16;4.1;97;Online
+A01551;Tarragona;26;19;6.5;93;
+A01151;Sabadell;52;20;4.0;40;Híbrida
+A00293;Vic;19;27;8.8;88;Híbrida
+A02243;Manresa;46;1;4.6;85;Híbrida
+A00472;Terrassa;-4;9;9.5;78;Online
+A00527;;;8;5.6;54;Presencial
+A02084;Girona;27;34;4.2;57;Online
+A01920;Sabadell;57;1;0.4;80;Híbrida
+A00238;Mataró;;19;1.4;71;Online
+A01979;Sabadell;28;0;3.2;96;Presencial
+A00152; Girona  ;16;25;4.5;77;Híbrida
+A01249;Tarragona;61;8;0.9;72;Híbrida
+A02424;Mataró;57;26;8.5;99;  
+A01788;Mataró;35;22;1.6;54;Presencial
+A02470; Vic  ;28;0;;88;Online
+A00543;Terrassa;19;2;6.8;90;Presencial
+A01990;Sabadell;18;34;1.2;84;Híbrida
+A02113;Manresa;20;24;8.2;80;Híbrida
+A02338;Tarragona;55;17;4.2;99;Presencial
+A00403;;28;18;;68;Online
+A00489;Reus;45;2;0.3;77;Online
+A00109;Sabadell;25;11;5.0;91;Híbrida
+A01439;Barcelona;40;33;9.4;99;Híbrida
+A00692;Mataró;53;34;5.6;52;Presencial
+A01173;Tarragona;;18;5.4;84;  Presencial 
+A00682;;33;26;7.3;41;Presencial
+A01083; Terrassa  ;57;26;1.3;51;Online
+A01296;Terrassa;54;1;8.9;64;Híbrida
+A00975;Reus;55;15;;53;Presencial
+A00977;Mataró;25;9;1.0;43;Híbrida
+A00011;Manresa;56;32;7.7;82;Online
+A00520;Tarragona;52;4;;54;Presencial
+A02422;Barcelona;25;12;6.9;42;Presencial
+A00950; Manresa  ;43;14;0.6;41;Presencial
+A01688;Barcelona;52;18;0.4;51;Online
+A00843;Mataró;21;1;1.4;66;Presencial
+A01423;Terrassa;28;35;5.0;48;Online
+A01969;Reus;18;25;6.7;44;Online
+A01275;Manresa;;1;5.2;86;Híbrida
+A01150;Terrassa;65;5;4.7;65;  Online 
+A01866;Lleida;32;12;9.8;45;Presencial
+A02340;Girona;50;34;;88;Presencial
+A00715;Barcelona;39;35;;98;Híbrida
+A00683;Barcelona;52;0;3.0;97;Online
+A02021;Terrassa;41;9;6.9;;
+A00654;Terrassa;65;23;7.0;90;Presencial
+A00829;Terrassa;52;0;7.2;76;Presencial
+A01801;Reus;30;2;3.6;73;Online
+A00416;Reus;19;30;;49;Híbrida
+A00092;Girona;60;6;4.1;66;  Online 
+A01853;Tarragona;;34;2.7;60;Online
+A02348;Terrassa;62;8;9.1;98;Presencial
+A01523;Girona;33;10;4.4;43;Online
+A00882;Mataró;59;31;7.0;70;Presencial
+A02099;Girona;65;17;7.4;57;Híbrida
+A01442;Lleida;52;28;4.3;47;Presencial
+A02495;Sabadell;25;22;8.4;95;Presencial
+A01323;Tarragona;57;8;9.8;45;Presencial
+A01273; Sabadell  ;39;11;13.5;94;Híbrida
+A00972;Mataró;55;8;4.5;68;Presencial
+A00628;Lleida;44;8;6.5;51;Online
+A00706;Vic;54;15;6.3;43;Presencial
+A02486;Lleida;28;7;6.9;80;Online
+A01732;Terrassa;48;25;0.5;66;Online
+A02004;Tarragona;62;27;5.5;51;Presencial
+A02268;Lleida;42;7;6.3;79;Híbrida
+A01235; Tarragona  ;42;27;;60;Presencial
+A01245;Tarragona;31;180;6.2;78;Online
+A00030;Sabadell;65;26;5.5;48;Presencial
+A01539; Mataró  ;21;35;2.5;46;Híbrida
+A00813;Reus;60;7;5.4;61;Presencial
+A00881;Manresa;31;4;8.8;90;Presencial
+A00774;Manresa;46;21;3.3;;Híbrida
+A00967;Barcelona;25;8;3.7;62;Híbrida
+A00718;Terrassa;46;23;7.4;86;Online
+A00077;Girona;34;2;5.7;46;Presencial
+A01555;Mataró;56;18;9.9;72;Presencial
+A01123;Reus;40;28;9.2;61;Presencial
+A00161;Reus;61;26;8.9;71;  Online 
+A02402;Vic;42;25;6.9;89;Presencial
+A01174;Reus;31;20;5.6;66;Presencial
+A01570;Manresa;27;5;0.7;67;Presencial
+A00478;Sabadell;35;20;0.1;96;Presencial
+A00216;Vic;36;13;8.9;91;Híbrida
+A01942;Terrassa;51;21;1.5;76;Híbrida
+A00124;;50;26;5.6;40;Presencial
+A00901;Vic;;29;5.7;55;Presencial
+A01586;Vic;140;17;;68;Presencial
+A02027;Tarragona;42;26;0.5;62;Online
+A00905;Barcelona;33;6;5.2;85;Híbrida
+A00160;Lleida;49;15;6.4;54;Híbrida
+A02159;Lleida;;7;5.9;87;Online
+A00605;Mataró;64;8;3.7;79;Presencial
+A01104;Mataró;47;25;8.0;84;  Presencial 
+A01371;Girona;42;10;4.5;92;Presencial
+A00838;Terrassa;16;26;5.3;46;Presencial
+A02091;Girona;  ;18;3.2;83;Presencial
+A00384;Tarragona;51;29;1.5;53;Online
+A01993;Terrassa;45;34;4.8;94;Online
+A01311; Vic  ;53;6;7.0;47;  Online 
+A00173;Barcelona;23;34;4.3;50;Presencial
+A00798; Reus  ;45;22;0.3;70;Online
+A00035;Sabadell;31;24;8.1;79;Presencial
+A02003;Vic;21;10;5.5;50;Presencial
+A01443;Vic;30;10;  ;42;Presencial
+A02165;Reus;48;31;6.4;96;Híbrida
+A02362;Girona;32;10;1.8;68;Presencial
+A00685;Girona;50;2;6.1;51;Híbrida
+A01321;Terrassa;26;16;6.1;60;Presencial
+A01620;Girona;20;19;9.1;71;Híbrida
+A00224;Reus;33;11;9.8;99;Híbrida
+A00792;Mataró;60;27;0.5;48;Híbrida
+A01654;Girona;31;27;9.9;44;Híbrida
+A00723;Manresa;40;32;8.7;64;Presencial
+A02471;Girona;49;13;1.0;65;Presencial
+A01362;Barcelona;52;6;5.1;76;Online
+A00208;Tarragona;27;29;;75;Online
+A02096;Girona;32;14;5.6;50;Híbrida
+A01608;Tarragona;65;10;13.5;95;Híbrida
+A00534;Terrassa;62;-5;0.4;90;Híbrida
+A01546;Barcelona;38;14;1.9;62;Online
+A00557;Vic;45;6;0.5;77;Online
+A01398;Vic;49;24;2.9;90;Híbrida
+A01071;Girona;;18;5.6;43;Presencial
+A01367;Girona;58;22;3.2;92;Online
+A00522;Tarragona;23;;6.4;98;Híbrida
+A01609;Sabadell;17;7;6.3;75;Online
+A01844;Tarragona;26;3;1.9;69;Híbrida
+A01436;Tarragona;35;21;6.9;40;Híbrida
+A01356;Tarragona;21;24;7.9;51;Online
+A01886;Reus; 64 ;18;2.6;81;  Híbrida 
+A00321;Barcelona;19;4;2.0;72;Presencial
+A01972;Lleida;;;2.5;66;Online
+A00646; Reus  ;;32;9.8;93;Online
+A02260;Lleida;22;34;8.3;55;Presencial
+A01517;Tarragona; 32 ;14; 4.6 ;59;Presencial
+A01340;Reus;16;6;13.5;51;Online
+A00825;Lleida;22;28;9.7;84;Online
+A00084;Vic;38;25;2.5;77;Híbrida
+A00344;Sabadell;50;35;9.5;;Online
+A01802;Manresa;;15;5.8;54;Híbrida
+A00826;Mataró;-4;11;0.9;52;Online
+A00010;Reus;47;14;2.7;91;Online
+A00758;Vic;42;3;9.9;53;Presencial
+A00796;Tarragona;18;26;9.7;84;Presencial
+A01427;Mataró;37;0;9.4;42;Presencial
+A01055;Reus;39;11;2.3;80;Online
+A01470;Lleida;36;27;4.3;92;Presencial
+A01846;Mataró;54;6;-2.0;98;Híbrida
+A00446;Barcelona;34;26;4.7;99;Presencial
+A02110;Reus;45;21;1.1;98;Híbrida
+A01831;Manresa;49;10;3.4;75;Presencial
+A00281;Manresa;46;0;5.2;97;Presencial
+A01547;Barcelona;;11;;62;Presencial
+A01489;Tarragona;22;30;2.7;100;Híbrida
+A00206;Terrassa;44;4;4.0;57;Presencial
+A00511;Manresa;57;6;0.4;135;Presencial
+A02210;Mataró;;19;;96;Online
+A01752;Tarragona;20;16;6.7;135;Presencial
+A00032;Tarragona;56;16;3.5;77;Presencial
+A01702;Reus;23;14; 8.1 ;40;  Online 
+A01265;Girona;32;26;7.5;56;  Presencial 
+A01126;Tarragona;35;35;7.3;59;Presencial
+A01833;Sabadell;32;23;;74;
+A00784;Manresa;40;35;4.6;75;Online
+A00483;Girona;27;25;2.6;82;  Presencial 
+A01234;Vic;59;10;6.9;58;Híbrida
+A01756;Tarragona;25;30;7.0;92;Híbrida
+A00219;Barcelona;49;11;2.0;135;Online
+A00721;Vic;63;23;7.4;97;Presencial
+A01332;Tarragona;46;6; 1.4 ;94;Online
+A01424;Girona;22;-5;4.3;52;Online
+A02418;;62;24;;95;Online
+A02473;Barcelona;30;27;9.3;87;Presencial
+A01122;Mataró;;9;3.2;83;Híbrida
+A00474;Manresa;62;27;5.2;-10;Presencial
+A01946;Manresa;40;21;0.2;56;Presencial
+A02300;Terrassa;59;14;8.4;59;  Híbrida 
+A00644;Girona;63;11;7.9;66;  Online 
+A00761;Sabadell;46;0;9.6;46;Online
+A00320;Sabadell;57;29;1.4;57;Online
+A01087;Girona;47;16;7.1;49;Presencial
+A01182;Manresa;53;23;1.2;61;Presencial
+A02233;Lleida;20;;6.9;43;Online
+A00750;Girona;38;2;7.9;62;Online
+A01372;Tarragona;48;35;4.6;44;Híbrida
+A02011;Barcelona;38;20;8.2;86;Híbrida
+A02028;Terrassa;23;30;;46;Online
+A00835;Girona;64;4;3.7;75;Híbrida
+A02421;Reus;23;9;6.2;70;Presencial
+A00959;Girona;63;12;1.0;76;Presencial
+A01901;Mataró;16;6;6.8;61;Híbrida
+A01655;Tarragona;29;2;3.4;69;Híbrida
+A01082;Reus;33;7;9.2;73;Híbrida
+A00569;Terrassa;52;11;4.1;61;Presencial
+A00626;Barcelona;22;1;1.5;59;Presencial
+A01128;Lleida;47;14;3.3;70;
+A00251;Lleida;16;17;7.5;71;Online
+A00433;Manresa;27;23;2.4;68;Presencial
+A00401;Barcelona;52;32;1.1;65;Híbrida
+A01713;Manresa;28;21;8.4;84;Híbrida
+A00078;Manresa;50;4;;79;Híbrida
+A01851;Reus;22;31;4.4;83;Híbrida
+A02432; Reus  ;21;33;0.6;40;Híbrida
+A00355;Lleida;26;19;-2.0;81;Híbrida
+A00246;Sabadell; 39 ;28;8.0;96;Online
+A00462;Girona;44;20;7.0;82;Híbrida
+A01252;Mataró;24;26;0.0;54;Presencial
+A01578;Reus;25;24;6.4;92;Híbrida
+A01391;Barcelona;45;12;;56;Híbrida
+A01715;Lleida;44;18;2.8;73;Online
+A00782;Reus;;5;7.3;94;  Presencial 
+A00210;Tarragona;43;21;8.2;72;Presencial
+A02207;Lleida;23;23;6.3;67;Presencial
+A00920;Mataró;18;25;3.0;63;  Híbrida 
+A01370;Tarragona;39;20;6.5;96;Híbrida
+A01710; Tarragona  ;43;27;0.1;78;Híbrida
+A00815;Lleida;58;17;3.2;83;Presencial
+A00786;Mataró;53;8;4.2;60;Online
+A01940;   ;16;19;3.8;68;Online
+A01091;Tarragona;42;0;6.9;73;Online
+A01445;Vic;;13;6.3;80;Online
+A01258;Barcelona;;5; 9.5 ;75;Híbrida
+A00023;Barcelona;22;26;6.4;84;  Presencial 
+A02136;Terrassa;20;-5;5.5;71;Online
+A01847;Reus;53;16;1.7;100;Online
+A01607;Vic;41;25;5.2;71;Online
+A00732;Reus;140;16;5.5;67;Híbrida
+A01328;Terrassa;35;180;4.0;92;Híbrida
+A01783;Lleida;44;23;8.1;47;Presencial
+A00168;Barcelona;53;6;2.3;92;Presencial
+A00598;Vic;35;0;;42;  Presencial 
+A02448;Terrassa;;32;6.7;59;Híbrida
+A01529;Girona;39;35;1.4;64;Híbrida
+A02201;;47;25;-2.0;72;Híbrida
+A01314;Tarragona;63;31;3.4;135;Online
+A02242; Terrassa  ;-4;14;5.8;62;Online
+A02461;Vic;48;11;3.7;79;  Híbrida 
+A01132;Barcelona;20;32;6.3;87;Online
+A00889;Girona;59;1;6.8;69;Online
+A01280;Lleida;40;23;6.8;65;Híbrida
+A01880;Tarragona;37;20;2.0;88;
+A02464;Reus;59;20;6.0;97;Presencial
+A02284;Manresa;35;31;3.7;75;Híbrida
+A02401;Sabadell;19;28;7.7;76;Online
+A00004;Barcelona;34;21;4.7;60;Presencial
+A00779; Terrassa  ; 48 ;23;3.8;75;Híbrida
+A00125;Barcelona;45;34;6.4;84;Híbrida
+A01650;Sabadell;18;16;2.6;60;Presencial
+A01610;Reus;25;17;1.2;62;  Híbrida 
+A01775;Lleida;46;14;-2.0;86;Presencial
+A01032;Lleida;61;6;1.3;;Online
+A00183;Reus;140;6;3.8;69;Presencial
+A02175;Mataró;17;;0.8;91;Online
+A01028;Mataró;20;23;0.4;65;Híbrida
+A00638;Sabadell;36;;4.6;88;Online
+A01837;Reus;37;33;2.7;45;Online
+A01037;Girona;140;3;1.9;51;Online
+A00785;Mataró;33;19;5.4;74;Híbrida
+A02288;Lleida;38;24;;79;Híbrida
+A00137;Mataró;50;13;5.7;41;Online
+A00670;Barcelona;32;35;13.5;72;Híbrida
+A01865;Manresa;58;15;2.8;84;Presencial
+A00237;Sabadell;27;0;0.6;-10;Online
+A01501; Lleida  ;45;21;0.1;-10;Presencial
+A00853;Sabadell;31;26;6.9;83;Online
+A02000;Sabadell;19;24;6.6;72;Online
+A01360;Manresa;;5;4.0;48;Online
+A02057;Manresa;;7;9.4;57;Híbrida
+A00669;Terrassa;26;30;0.1;85;Híbrida
+A01377;Lleida;;25;8.8;71;Híbrida
+A02250;Tarragona;22;20;8.1;69;Online
+A00079;Manresa;18;4;9.3;-10;Online
+A01010;Mataró;23;5;1.1;99;  
+A01843;   ;17;4;1.1;81;Online
+A00385;Barcelona;37;25;8.6;64;Presencial
+A02242; Terrassa  ;-4;14;5.8;62;Online
+A00668;Vic;60;16;7.3;54;Híbrida
+A00226;Lleida;30;23;4.1;97;Presencial
+A01409;Vic;47;13;7.6;51;Presencial
+A02446;Lleida;27;8;2.1;57;Híbrida
+A00052;Lleida;33;18;;58;Online
+A01636;Girona;40;13;9.7;91;Presencial
+A00269;Terrassa;20;9;9.9;74;Online
+A01944;Sabadell;32;4;4.9;100;Presencial
+A01479;Girona;;;2.9;96;Híbrida
+A01101;Tarragona;41;6;2.3;71;Híbrida
+A00429;Barcelona;54;20;;43;Online
+A00273;Lleida;35;11;;62;Híbrida
+A01068;Vic;63;-5;6.1;82;Online
+A01892;Vic;17;16;3.8;;Online
+A02278;Tarragona;;8;13.5;48;Online
+A00353;Sabadell;47;1;6.2;63;Online
+A01541;Manresa;17;23;13.5;43;  Híbrida 
+A00473;Manresa;18;2;2.4;;Online
+A00928;Vic;35;;7.0;89;Presencial
+A01912;Lleida;35;26;2.2;46;Online
+A01256;Reus;36;20;2.2;94;Híbrida
+A01217;Tarragona;28;17;5.5;76;Híbrida
+A00314;Terrassa;35;4;7.7;83;Online
+A02044;Lleida;62;10;8.1;135;Presencial
+A01337;Girona;31;26;0.7;64;Híbrida
+A00455;Sabadell;59;34;;46;Híbrida
+A02142;Vic;;8;8.8;79;Online
+A00625;Girona;26;5;8.7;77;Presencial
+A02122;Tarragona;36;28;1.9;91;Online
+A01755;Tarragona;65;0;;52;Presencial
+A02223; Barcelona  ;37;16;;52;Híbrida
+A01178;   ;30;15;3.5;49;Online
+A00153;Barcelona;;4;8.1;55;Online
+A01832;Sabadell;20;3;7.1;61;Híbrida
+A00969; Mataró  ;;20;7.1;49;Online
+A01469;Barcelona;46;2;;47;Presencial
+A00075;Vic;60;11;9.8;97;Presencial
+A00509;Mataró;43;4;2.6;49;Presencial
+A00490;Girona;54;34;9.0;81;Online
+A00157;Girona;26;3;7.4;73;Online
+A00770;Girona;22;35;5.5;56;Presencial
+A01764;Barcelona;20;33;1.9;70;Online
+A01001;Girona;17;5;;53;Presencial
+A00039;Terrassa;26;7;;40;Presencial
+A02356;   ;28;20;10.0;82;Online
+A01986;Terrassa;22;21;2.0;53;Presencial
+A02083;Reus;62;19;8.2;100;Presencial
+A00601;Tarragona;50;10;8.2;65;Híbrida
+A01434;Terrassa;64;33;8.9;61;Presencial
+A02128; Tarragona  ;52;27;3.8;69;Presencial
+A02481;Sabadell;44;0;8.6;50;Presencial
+A02209;Reus;24;11;6.1;63;
+A00472;Terrassa;-4;9;9.5;78;Online
+A02121;Tarragona;21;17;1.3;41;  
+A02363;Reus;;34;3.3;84;Híbrida
+A00542;Sabadell;51;0;2.7;79;Híbrida
+A00301;Terrassa;17;9;0.1;;Online
+A01679;Lleida;34;11;1.7;135;  Online 
+A00144;Tarragona;38;25;5.7;78;Híbrida
+A02398;Barcelona;28;8;1.9;53;Presencial
+A02263;;53;0;7.4;135;Presencial
+A00399; Tarragona  ;30;0;6.7;47;Híbrida
+A01789;Terrassa;60;23;6.4;93;Presencial
+A00392;Lleida;58;7;3.5;53;Online
+A00639;Terrassa;48;33;-2.0;54;Online
+A01094;Tarragona;62;0;1.6;51;Presencial
+A00389;Tarragona;36;3;6.9;73;Online
+A02462;Vic;30;14;2.3;56;Híbrida
+A00306;Mataró;;0;2.9;42;Presencial
+A01983;Reus;63;9;7.4;61;Híbrida
+A00684; Girona  ;64;4;5.4;49;Presencial
+A02222;Sabadell;16;31;6.5;67;  
+A01075;Mataró;42;34;4.9;;Online
+A01645;Manresa;41;2;2.1;84;
+A01745;Mataró;53;32;6.5;62;Presencial
+A02041;Sabadell;51;12;;52;Online
+A01165;Terrassa;33;26;1.8;79;Online
+A00752;Barcelona;57;7;2.0;90;
+A00587;Lleida;24;9;4.8;60;Presencial
+A01937;Mataró;42;2;;67;Híbrida
+A00197;Lleida;50;34;7.7;44;Online
+A01663;Tarragona;31;2;3.3;75;Híbrida
+A00641;Manresa;39;22;5.4;100;Presencial
+A01211;Reus;46;19;0.0;45;Online
+A02250;Tarragona;22;20;8.1;69;Online
+A01238;Girona;48;22;2.8;44;Híbrida
+A01192;Vic;40;32;0.8;79;Online
+A02314;Girona;53;-5;;45;Híbrida
+A01416;Girona;-4;24;7.7;90;Presencial
+A01593;Sabadell;-4;14;5.3;58;Híbrida
+A01516;Tarragona;21;10;5.3;48;Híbrida
+A00664;Girona;47;180;3.6;74;Presencial
+A00303;Barcelona;30;22;2.8;55;  
+A00699;Girona;51;11;8.4;84;Online
+A02064;Reus;57;2;6.3;;Online
+A01433;Manresa;55;23;8.0;47;Híbrida
+A00081;Barcelona;49;12;6.0;81;Híbrida
+A01120;Girona;54;25;5.7;67;Híbrida
+A01626;Terrassa;50;34;1.1;82;Online
+A00065;Sabadell;58;24;;79;Online
+A00284;Barcelona;54;30;-2.0;41;Híbrida
+A00374;Sabadell;;24;7.9;46;Presencial
+A02087;Girona;45;17;4.2;53;Online
+A00767;Terrassa;-4;1;;72;Online
+A00058;Barcelona;18;;3.0;71;Online
+A00726;Tarragona;33;24;0.4;57;Híbrida
+A01011;Barcelona;64;31;7.4;96;Online
+A01407;Sabadell;33;24;13.5;50;Online
+A00178;Sabadell;34;-5;8.2;76;Presencial
+A01769;Reus;140;;6.5;68;Presencial
+A02438;Barcelona;27;35;5.4;56;  Online 
+A00080;Tarragona;41;20;6.3;57;Online
+A02230;Mataró;56;4;7.5;50;Presencial
+A01342;Girona;140;30;4.6;74;Presencial
+A00837;;52;7;4.7;56;Híbrida
+A02330;Sabadell;61;8;8.6;64;Híbrida
+A00335;Manresa;52;24;13.5;65;Presencial
+A02465;Mataró;;;5.4;62;Presencial
+A02434;Mataró;20;35;7.2;81;Presencial
+A00482;Terrassa;64;6;4.6;58;Híbrida
+A02404;Manresa;35;23;0.0;51;Presencial
+A02429;Sabadell;46;5;5.9;95;Online
+A00417;Girona;32;21;5.3;58;Presencial
+A01005;Reus;58;30;13.5;87;Híbrida
+A02084;Girona;27;34;4.2;57;Online
+A00537;Lleida;56;5;4.0;56;Presencial
+A00914;Sabadell;53;17;7.9;81;Presencial
+A00735;Terrassa;48;3;9.0;47;Presencial
+A01954;Girona;19;30;9.8;41;Online
+A01183;Tarragona;62;1;;56;Híbrida
+A00570; Reus  ;53;26;7.7;76;Híbrida
+A00028;Vic;65;32;1.1;82;Presencial
+A02170;;59;4;8.1;66;Presencial
+A02374;Barcelona;23;33;1.2;78;Híbrida
+A02035;Manresa;50;24; 1.6 ;89;Presencial
+A01049;Manresa;57;33;5.1;69;Híbrida
+A00744;;55;14;5.3;77;Online
+A02053;Vic;54;27;9.0;76;Híbrida
+A01662;Sabadell;57;7;7.7;83;Híbrida
+A01893;Vic;33;4;5.9;42;Híbrida
+A02037;   ;23;14;5.4;71;Presencial
+A00629;Vic;;30; 6.8 ;91;Presencial
+A00289;Manresa;;21;2.7;60;Híbrida
+A00056;Terrassa;55;10;7.6;59;Híbrida
+A00838;Terrassa;16;26;5.3;46;Presencial
+A00044;Girona;64;5;8.0;83;Híbrida
+A00743;Tarragona;21;1;7.0;99;Presencial
+A02034;Manresa;51;5;4.6;43;Híbrida
+A00868;;35;7;7.7;87;Híbrida
+A01431;Sabadell;35;35;2.4;41;Presencial
+A00771;Mataró;23;15;2.9;93;Online
+A01230;Vic; 49 ;26;3.0;58;Híbrida
+A01116;;25;8;2.2;50;Online
+A02468;Girona;63;7;8.5;94;Presencial
+A00113;Sabadell;39;2;5.7;53;Presencial
+A02359;Mataró;63;28;0.3;93;Híbrida
+A00363;Reus;47;9;1.8;89;Híbrida
+A01412;Tarragona;31;21;3.5;40;Híbrida
+A00926;Lleida;35;3;0.6;66;Presencial
+A01675;Reus;32;3;13.5;51;Híbrida
+A02215;Vic;29;29;6.0;74;Presencial
+A00846;Vic;17;16;3.8;45;
+A01260;Girona;51;18;5.5;67;Híbrida
+A01982;Terrassa;57;24;7.8;44;Presencial
+A02008;Vic;39;18;2.5;44;Online
+A00562;Mataró;26;8;4.1;50;Presencial
+A01512;Girona;25;8;8.1;65;Híbrida
+A00212;Barcelona;39;24;3.2;46;Híbrida
+A00604;Mataró;33;15;8.8;97;Híbrida
+A00702;Reus;47;26;;47;Híbrida
+A02392;Vic;35;7;;49;  Online 
+A00670;Barcelona;32;35;13.5;72;Híbrida
+A00280;Terrassa;27;20;7.4;40;Híbrida
+A01474;Mataró;50;0;13.5;53;Presencial
+A00660;Mataró;52;35;8.0;49;Presencial
+A01359;Lleida;30;29;8.6;77;Híbrida
+A00282;Mataró;27;0;8.7;77;
+A00986;Reus;;;9.6;76;Online
+A00913;Mataró;27;180;1.1;64;Presencial
+A00923;Terrassa;35;34;-2.0;91;Presencial
+A02072;Manresa;16;0; 6.5 ;87;Online
+A01827;Tarragona;39;;3.2;73;Presencial
+A01115;Vic;28;2;7.6;58;Online
+A01157;Manresa;61;-5;;72;Online
+A01369;Vic;63;17; 1.7 ;98;Online
+A00817; Tarragona  ;65;10;4.1;;Presencial
+A00749;Tarragona;31;17;3.4;82;Híbrida
+A00701;Barcelona;29;22;4.6;69;Híbrida
+A01448;Lleida;17;33;4.8;53;Presencial
+A01504;Lleida;25;8;7.9;78;
+A01889;Girona;40;14;2.3;65;Presencial
+A00973;Manresa;45;33;5.7;81;Híbrida
+A02262;Mataró;50;;;83;Híbrida
+A02235;Manresa;20;22;2.8;51;Híbrida
+A01381;Vic;37;4;0.0;97;Presencial
+A01530;Girona;;21;9.6;93;Presencial
+A00002;Girona;50;24;3.9;51;Presencial
+A02494;Girona;62;;1.8;;Híbrida
+A01496;Girona;;34;9.7;55;Presencial
+A02302;Mataró;49;33;1.5;44;Presencial
+A00679;   ;43;2;1.7;58;Online
+A02145;Manresa;63;20;;78;Presencial
+A01589;Girona;46;6;8.9;83;Híbrida
+A00045;Girona;40;9;9.0;65;Híbrida
+A00805;Lleida;55;15;7.4;40;  Presencial 
+A00854;Sabadell;140;26;8.8;98;Híbrida
+A01660;Terrassa;34;180;4.7;81;Online
+A00957;Tarragona;31;;2.3;91;Presencial
+A00024;Terrassa;24;7;8.8;52;Online
+A02489; Girona  ;41;7;8.5;75;Online
+A01304;Girona;58;19;0.3;60;Online
+A00577;Sabadell;52;28;8.4;74;Híbrida
+A00872;Tarragona;55;35;4.2;50;Online
+A02391;Vic;38;14;6.6;93;Online
+A00943;Girona; 51 ;9;6.3;52;  Presencial 
+A02231;   ;42;33;6.3;96;  Online 
+A02067;Lleida;24;27;;76;Online
+A01491;Mataró;53;20;-2.0;80;Híbrida
+A00919;Lleida;19;30;0.0;76;Presencial
+A01378;Reus;42;0;;85;Híbrida
+A02218;Mataró;55;12;7.5;64;Online
+A01686;Vic;43;17;5.1;64;Online
+A00365;Terrassa;46;16;6.8;135;Presencial
+A00734;Lleida;59;22;2.7;85;Presencial
+A02365;Reus;45;16;2.4;;Presencial
+A01263;Reus;45;21;6.0;88;Online
+A02104;Lleida;25;35;7.9;95;Híbrida
+A00334;Vic;32;30;8.2;62;Híbrida
+A01065;Terrassa;33;26;-2.0;80;Presencial
+A02441;Vic;38;22;6.5;87;Online
+A00294;Lleida;45;8;2.1;49;Online
+A01864;Girona;65;17;5.1;46;Híbrida
+A02444;Tarragona;59;24;;81;
+A01738;Girona;22;3;8.5;-10;Híbrida
+A00648;Mataró;18;28;2.1;87;Presencial
+A02176;Mataró;;10;6.6;81;Online
+A01813;Tarragona;27;11; 9.4 ;64;Híbrida
+A00756;Barcelona;41;22;0.9;74;Online
+A01798;;56;;9.8;62;Presencial
+A01921;Terrassa;;30;9.9;81;Online
+A01502;Sabadell;55;12;6.9;95;Presencial
+A00213;Terrassa;33;29;-2.0;45;Presencial
+A02387;;38;13;6.7;46;Presencial
+A01175;Manresa;52;1;8.8;93;
+A01936;Sabadell;17;7;7.4;62;Híbrida
+A01556;Sabadell;26;23;7.9;69;Híbrida
+A02139;;56;13;7.2;60;  Híbrida 
+A02293;Tarragona;64;27;5.7;52;Presencial
+A01204;Barcelona;17;35;5.5;;Online
+A01959;Girona;21;29;3.6;72;Presencial
+A00261;Barcelona;60;;0.7;65;Online
+A00927;Terrassa;17;9;4.7;82;Presencial
+A01184;Tarragona;49;5; 0.4 ;100;Online
+A00955;Lleida;21;11;5.9;70;Híbrida
+A01404;Barcelona;44;24;;79;Presencial
+A01012;Lleida;51;11;4.9;64;  Presencial 
+A00404;Reus;29;4;1.5;89;  
+A01619;Reus;53;14;2.8;93;Presencial
+A00108;Sabadell;40;30;2.2;87;Presencial
+A00550;Terrassa;46;7;7.6;41;Híbrida
+A01463; Tarragona  ;34;22;6.9;89;Presencial
+A00729;Terrassa;60;35;7.5;88;Online
+A01848;Manresa;65;29;7.8;81;Híbrida
+A00484;Tarragona;65;34;6.8;43;Online
+A00906;Mataró;52;34;4.9;95;Online
+A00340;Manresa;;6;8.1;69;Online
+A01376;Barcelona;64;27;5.6;;Presencial
+A00632;Barcelona;29;18;7.8;-10;Híbrida
+A02254;Reus;50;22;7.1;66;  Híbrida 
+A00558;;57;18;9.1;61;Presencial
+A02132;Vic; 62 ;14;;44;Presencial
+A01363;Sabadell;54;;5.4;88;
+A01583;Sabadell;36;12;0.3;91;Híbrida
+A01158;Tarragona;53;25;9.0;65;Híbrida
+A00018;Terrassa;17;25;4.6;100;Presencial
+A02119;Sabadell;26;1;;63;Online
+A01977;Lleida;17;12;1.8;77;Híbrida
+A01796;Manresa;65;13;7.7;42;Online
+A00263;Lleida;49;11;0.3;97;Presencial
+A01497;Girona;63;5;6.6;99;Presencial
+A01103;Manresa;36;33;8.3;46;Híbrida
+A02397;Terrassa;;9;2.3;90;
+A00799;Lleida;;32;6.3;43;
+A02166; Reus  ;46;14;7.6;49;Híbrida
+A00192;Sabadell;20;27;9.1;82;Híbrida
+A01143;Girona;22;29;2.2;87;Online
+A01525;Manresa;140;9;6.6;43;Híbrida
+A00938;Lleida;46;1;13.5;41;Híbrida
+A01802;Manresa;;15;5.8;54;Híbrida
+A00358;Terrassa;30;28;2.7;81;Online
+A02052; Barcelona  ;65;26;2.0;88;Híbrida
+A00463;Reus;29;29;8.3;80;Presencial
+A00544;Sabadell;;35;9.1;92;Híbrida
+A01475;Vic;-4;23;4.6;82;Online
+A01790;Mataró;35;32;9.0;98;Online
+A02265;Mataró;55;30;3.1;87;Online
+A02104;Lleida;25;35;7.9;95;Híbrida
+A02291;Terrassa;41;;4.4;-10;Online
+A02358;Tarragona;56;10;2.6;65;Online
+A01269;Tarragona;19;23;2.0;43;
+A02409;Tarragona;64;26;9.4;135;Híbrida
+A00253;Sabadell;47;0;7.3;52;  Presencial 
+A01845;Vic; 58 ;30;9.2;56;Híbrida
+A00612;Girona;;21;7.0;60;Presencial
+A02025;Mataró;26;20;0.1;42;Online
+A02069;Sabadell;58;29;6.1;40;Híbrida
+A00359;Lleida;18;21;6.2;64;Presencial
+A01674;;64;13;8.9;44;Híbrida
+A01618;Girona;58;28;2.1;85;Presencial
+A02394; Vic  ;39;9;2.2;98;Híbrida
+A00074;Sabadell;27;27; 0.3 ;48;Online
+A00319;Tarragona;57;;2.9;69;Híbrida
+A01385;Sabadell;21;8;0.9;56;Híbrida
+A01560;Terrassa;49;13;;77;Presencial
+A00911;Mataró;42;29;8.1;60;Presencial
+A02366;Terrassa;61;5;;96;Híbrida
+A00939;Girona;45;21;1.9;63;Híbrida
+A00596;Vic;39;13;1.4;98;Online
+A02162;Girona;19;35;1.4;85;   
+A01288;Girona;24;23;2.4;56;  Presencial 
+A00689;Reus;45;17;;95;Online
+A01594;Tarragona;31;0;6.8;52;Híbrida
+A00640;Reus;16;30;1.5;71;Online
+A01441;Girona;31;2;0.2;96;Híbrida
+A01774;Vic;45;13;8.0;53;Online
+A00998;Reus;19;16;7.7;41;Online
+A00992;;17;10;4.0;90;Online
+A00174;Sabadell;24;;9.9;96;Online
+A00697;Manresa;  ;0;0.9;74;Online
+A01929;Reus;26;24;1.9;51;Presencial
+A00617;Sabadell;55;11;0.2;77;Online
+A02065;Lleida;-4;15;6.2;99;Presencial
+A01414;Terrassa;53;8;1.2;66;  
+A01455;   ;58;15;7.7;86;Híbrida
+A02074;Manresa;140;24;4.9;76;Híbrida
+A02474;Sabadell;58;5;9.5;72;Híbrida
+A00362;Barcelona;48;24;2.2;68;Híbrida
+A01138;Tarragona;37;35;0.2;78;Online
+A00934;Vic;19;15;4.3;65;Híbrida
+A02169;Vic;54;1;3.3;93;Presencial
+A01692;Vic;37;18;2.3;43;
+A01647;Terrassa;140;33;1.0;50;Online
+A00497;Terrassa;22;1;-2.0;79;Online
+A01603;Sabadell;38;6;2.4;43;Online
+A00015;Sabadell;32;33;3.3;51;Híbrida
+A01841;Vic;53;0;8.9;43;Online
+A00486;Barcelona;43;15;8.1;61;Presencial
+A01167;Girona;65;16;9.1;57;Online
+A00394;Tarragona;30;17;2.5;53;Online
+A00965;Sabadell;53;22;5.4;47;Presencial
+A01482; Terrassa  ;59;30;;54;Online
+A01757;Lleida;24;17;0.3;66;Presencial
+A01106;Barcelona;21;35;9.2;-10;Híbrida
+A00209; Sabadell  ;39;19;5.4;77;Híbrida
+A01956;Mataró;30;2;8.6;62;Presencial
+A00236;Sabadell;-4;17;2.2;94;Presencial
+A00200;Lleida;55;27;3.3;90;Híbrida
+A02150;Reus;34;33;0.4;;Presencial
+A00019; Manresa  ;28;15;8.9;61;Online
+A00390;Reus;44;33;;79;Online
+A01013;Lleida;30;8;7.7;81;Presencial
+A01817;Reus;19;25;9.7;-10;  Online 
+A02318; Vic  ;140;28;4.2;85;Híbrida
+A02271;Terrassa;36;30;9.0;94;Presencial
+A02337; Tarragona  ; 17 ;32;4.4;91;Online
+A00585;Barcelona;17;3;;86;Presencial
+A02315;Tarragona;25;30;8.6;98;Presencial
+A01809;Lleida;40;25;13.5;51;Presencial
+A00525;Terrassa;60;6;6.2;74;Presencial
+A00609;Tarragona;55;;0.7;68;Híbrida
+A01290;Manresa;20;11;2.9;;Presencial
+A00196;Lleida;38;31;3.3;98;Online
+A02245;Sabadell;52;14;6.7;77;Presencial
+A01072;Girona;25;28;13.5;89;Online
+A00973;Manresa;45;33;5.7;81;Híbrida
+A02181;Tarragona;32;7;2.6;69;Híbrida
+A01169;Tarragona;49;35;2.9;69;Híbrida
+A00990;Girona;28;34;8.4;73;Híbrida
+A00100;Barcelona;21;27;6.7;55;Híbrida
+A00614;Sabadell;32;23;1.0;97;Presencial
+A01349; Vic  ;16;35;-2.0;62;Presencial
+A01711;Tarragona;-4;;3.3;56;Presencial
+A00453;Tarragona;32;5;9.5;52;Presencial
+A02199;Vic;36;16;8.1;99;Online
+A02445;Reus;56;32;9.6;41;Online
+A01476;Lleida; 60 ;16;9.6;94;Online
+A01998;Vic;43;8; 5.7 ;49;Presencial
+A01021;Terrassa;63;24;0.9;43;Presencial
+A01460;Lleida;39;19;8.4;135;Híbrida
+A02234;Vic;20;18;2.8;76;Online
+A00600;Girona;47;2;6.6;41;Online
+A01022;Vic;43;32;4.7;135;Híbrida
+A00009;Mataró;32;19;3.0;43;Online
+A01677;Terrassa;18;13;;;Online
+A01219;Barcelona;25;7;8.7;46;  Presencial 
+A01117;Mataró;21;5;0.8;89;Online
+A00090;Barcelona;51;25;0.9;45;Online
+A01399;Terrassa;63;5;9.9;81;Híbrida
+A00810;Terrassa;47;8;7.2;89;Presencial
+A01909;Vic;37;180;6.8;86;  Presencial 
+A02155;Vic;65;28;0.6;92;Híbrida
+A02313;Sabadell;19;20;4.8;95;Presencial
+A02296;Barcelona; 65 ;25;1.1;51;Online
+A02388;Manresa;52;4;4.1;74;Online
+A00754;Reus;49;;;73;Online
+A01763;Mataró; 43 ;0;3.2;;Online
+A01823;Manresa;53;9;6.2;44;Online
+A00964;Barcelona;20;4;6.9;77;Online
+A00801;Sabadell;40;-5;2.6;96;Online
+A00595;Manresa;;27;0.2;59;Híbrida
+A02342;Sabadell;46;21;0.7;48;Presencial
+A00862;Reus;16;2;0.6;95;Híbrida
+A01898;Manresa;55;25;;135;Presencial
+A00177;Sabadell;-4;18;3.8;80;Online
+A01207;Sabadell;;33;-2.0;65;Online
+A01729; Mataró  ;55;11;;44;Híbrida
+A01293;Tarragona;31;12;7.8;61;Online
+A00860;Tarragona;16;21;7.7;;Online
+A01780;Sabadell;33;-5;5.1;43;Presencial
+A01615; Manresa  ;;5;8.8;94;Híbrida
+A02439;Vic;21;31;7.5;91;Híbrida
+A01728;Girona;45;14;5.9;65;Híbrida
+A00132;Terrassa;35;29;8.8;84;Híbrida
+A00465;;62;10;4.9;83;Presencial
+A02109; Sabadell  ;56;25; 4.2 ;64;Online
+A00659;Barcelona;32;26;5.1;50;Presencial
+A01071;Girona;;18;5.6;43;Presencial
+A00304; Vic  ;46;27;5.5;93;Online
+A00333;Lleida;38;21; 1.9 ;40;Online
+A02331;Tarragona;45;16; 9.1 ;48;Híbrida
+A00245;Barcelona;51;34;4.2;86;Online
+A00546;Tarragona;17;0;;58;Híbrida
+A01038;Mataró;59;26;0.2;51;Híbrida
+A02457;Vic;23;27;;86;Híbrida
+A00753;Mataró;50;4;2.3;72;Presencial
+A01514;Girona;37;0;4.8;73;Presencial
+A01379;Manresa;49;2;7.5;90;Presencial
+A00448;Vic;18;2;3.2;86;Híbrida
+A00578;Terrassa;;20;5.2;57;Híbrida
+A01915;Lleida;49;4;9.4;71;Presencial
+A02277;Lleida;36;1;1.6;87;  Presencial 
+A00871;Reus;32;18;13.5;63;Presencial
+A01258;Barcelona;;5; 9.5 ;75;Híbrida
+A00296;Barcelona;39;29; 8.9 ;53;Híbrida
+A02353;Tarragona;58;4;;54;Híbrida
+A00025;Mataró;54;32;5.7;60;Presencial
+A00309;Girona;57;17;1.7;60;Presencial
+A01386;Manresa;48;28;3.6;61;Presencial
+A01999;Sabadell;34;12;9.8;60;Presencial
+A00071;Mataró;18;16;-2.0;54;Online
+A00834;Vic;34;7;0.3;69;Presencial
+A01542;Terrassa;31;26;9.6;58;Presencial
+A01642;Sabadell;19;1;3.9;85;Híbrida
+A01690;Terrassa;57;34;;100;Híbrida
+A00063;Mataró;22;10;9.2;62;Online
+A01533;Reus;56;2;9.3;135;Híbrida
+A01127;Girona;17;34;8.1;60;  Presencial 
+A01271;; 39 ;3;4.0;42;Híbrida
+A00787;Lleida;30;10;1.5;78;Presencial
+A00757;Barcelona;43;11;2.6;46;Online
+A00720;Lleida;32;31;4.1;77;Híbrida
+A00900;Sabadell;42;33;9.1;96;Online
+A00590;Mataró;-4;11;8.2;94;Online
+A00073;Barcelona;19;8;0.9;135;Híbrida
+A01996;Girona;17;21;2.5;98;Online
+A02217;Vic;33;26;3.6;73;Presencial
+A01004;Reus;58;32;9.9;97;Online
+A00480;Girona;44;29;0.5;98;Presencial
+A01095;Mataró;50;2;9.6;135;Híbrida
+A00423;Manresa;44;31;8.1;46;
+A01966;Reus;51;10;5.0;44;Híbrida
+A01354;Lleida;27;17;2.7;55;Presencial
+A01291;Mataró;43;15;5.1;80;Presencial
+A00505;Vic;56;18;1.9;72;  
+A01325;Manresa;42;12;1.8;66;Online
+A01602;Lleida;20;-5;9.3;83;Híbrida
+A01300;Tarragona;59;22;;44;Híbrida
+A00985;Manresa;43;8;0.1;86;Presencial
+A00610;Reus;140;19;3.1;67;Presencial
+A00103;Lleida;44;11;9.0;78;Online
+A00211;Mataró;26;10;4.3;96;Híbrida
+A01905;Barcelona;38;35;0.1;95;Híbrida
+A00714;Vic;;18;9.4;42;Presencial
+A00365;Terrassa;46;16;6.8;135;Presencial
+A01268;Sabadell;16;3;2.7;65;Presencial
+A02412;Sabadell;33;5;13.5;61;Híbrida
+A00421;Mataró;45;23;2.3;98;Presencial
+A01605;Barcelona;18;31;6.4;76;Online
+A00323; Girona  ;;33;6.4;40;Online
+A02279;Terrassa;19;10;7.8;;Híbrida
+A01887;Girona;;30; 3.4 ;78;Presencial
+A02014; Manresa  ;27;35;8.7;47;Online
+A01862; Sabadell  ;48;19;6.5;83;Presencial
+A01722;Tarragona; 58 ;33;7.6;83;Presencial
+A01185;Mataró;23;0;2.7;-10;Online
+A01791;Terrassa;25;18;9.1;82;Presencial
+A01301;Sabadell;56;23;2.9;91;Híbrida
+A00158;Terrassa;21;10;8.7;-10;Presencial
+A01413;Barcelona;27;31;3.8;43;Híbrida
+A02040;Mataró;;18;1.7;79;Online
+A02370;Tarragona;55;18;9.4;-10;Online
+A02178;Terrassa;60;14;3.0;79;Presencial
+A01241;Manresa;;4;2.3;135;Online
+A01995; Lleida  ;53;31;9.3;53;Online
+A00840;Lleida;58;33;3.5;72;Online
+A01812;Sabadell;65;35;6.5;58;Online
+A01008;Reus;39;3;8.5;95;Presencial
+A00887;Tarragona;28;33;9.7;51;Presencial
+A00980;Mataró;44;32;8.8;87;Híbrida
+A01199;Lleida;29;3;5.3;47;Online
+A01687;Girona;35;26;2.5;73;Presencial
+A00675;Reus;51;34;6.3;52;Híbrida
+A00637;Vic;44;6;;45;Presencial
+A00493;Manresa;;;0.5;73;Presencial
+A01171;Reus;41;14;4.5;95;Híbrida
+A01239;Manresa;-4;13;2.6;90;Híbrida
+A01080;Vic;24;27;9.3;72;Híbrida
+A01222;Barcelona;63;26;;60;
+A02275;Lleida;29;25;;43;Online
+A01509;Barcelona;36;18;7.3;41;Online
+A00327;Vic;51;31;1.4;84;Híbrida
+A00563;Vic;27;28;1.1;54;Presencial
+A02396;Girona;28;27;0.2;58;Híbrida
+A01438;Barcelona;31;6;0.9;56;Presencial
+A00262;Mataró;65;34;4.3;63;Híbrida
+A01135;Girona;25;3;3.8;86;Online
+A00631;Reus;37;16;0.9;71;Online
+A02095;Tarragona;20;23;2.5;43;Híbrida
+A01617;Vic;38;17;3.4;50;Híbrida
+A01308;Mataró;54;7;0.8;83;Online
+A01952;Reus;140;22;3.1;41;Híbrida
+A01768;Barcelona;;5;;76;Online
+A02143;Girona;25;28;8.9;53;Online
+A01162;Sabadell;45;180;0.0;87;Híbrida
+A01289;Barcelona;62;14;0.1;53;Presencial
+A02498;Manresa;54;7;4.2;97;Online
+A02085;Manresa;28;8;2.3;94;Online
+A02206;Lleida;65;19;1.5;74;Online
+A02361;Tarragona;22;6;0.5;50;Híbrida
+A00424;Sabadell;26;5;3.7;46;Híbrida
+A02274;Sabadell;37;4;3.8;58;Presencial
+A01592;Lleida;32;8;2.7;54;Híbrida
+A01237;Terrassa;25;26;1.3;56;Presencial
+A02024;Mataró;35;20;7.2;77;  Presencial 
+A01295;Tarragona;31;10; 9.6 ;69;Online
+A01220;Reus;140;23;2.1;100;Presencial
+A02259;Tarragona;39;25;7.4;98;Híbrida
+A00231;Terrassa;51;31;9.0;50;Online
+A02186;Lleida;54;23;1.4;71;Híbrida
+A01810;Terrassa;57;21;2.9;89;Presencial
+A02221;Sabadell;18;4;4.1;91;Híbrida
+A02308;Manresa;53;24;8.3;93;Híbrida
+A02228;Terrassa;17;30;3.5;51;Online
+A01490;Manresa;28;25;7.4;49;Presencial
+A00255;Terrassa;;3;4.0;58;Presencial
+A02299; Girona  ;46;16;5.3;78;Híbrida
+A02357;Barcelona;40;26;2.8;94;Presencial
+A02270;Barcelona;24;31;9.5;42;Online
+A00999;Girona;20;16; 6.5 ;89;Híbrida
+A01988;Lleida;53;27;-2.0;81;Online
+A02402;Vic;42;25;6.9;89;Presencial
+A00101;Barcelona;52;9;7.1;92;  
+A02395;Lleida;50;4;1.1;86;Online
+A00956;Terrassa;25;17;5.7;87;Híbrida
+A00461;Sabadell;30;13;9.5;94;Híbrida
+A01373;Manresa;56;1;1.7;69;Presencial
+A00966;Sabadell;60;0;2.9;52;  Híbrida 
+A01015;Sabadell;57;;9.8;48;Online
+A00733;Terrassa;39;28;3.1;80;Presencial
+A02312;Lleida;;30;1.4;67;Híbrida
+A00441;Girona;21;16;8.3;79;Híbrida
+A01933;Reus;63;31;2.8;73;Híbrida
+A00456; Sabadell  ;16;16;9.8;84;Online
+A01189;Barcelona; 55 ;;0.3;50;Híbrida
+A02246;Vic;24;25;7.3;73;Híbrida
+A00366;Sabadell;140;23;9.9;87;Online
+A01967;Vic;16;17;7.0;40;Presencial
+A01666;Reus;;35;0.6;99;Híbrida
+A00230;Vic;42;23;0.3;46;  Online 
+A01543;Lleida;38;27;5.0;62;Presencial
+A00199;Lleida;46;21;1.5;64;Híbrida
+A00165;Tarragona;60;34;8.6;40;Presencial
+A00510;Reus;;18;8.0;51;Presencial
+A01437;Manresa;46;20;1.4;69;Presencial
+A01402;Barcelona;52;7;6.8;91;Híbrida
+A01522;Barcelona;16;34;9.1;48;Online
+A01052;Lleida;35;29;4.0;97;Híbrida
+A02307;Barcelona;61;1;3.3;73;Híbrida
+A02115;Tarragona;20;11;0.6;58;
+A01297;Manresa;33;34;1.7;80;Online
+A00979;Vic;30;-5;9.4;66;Online
+A00442;Girona;;0;;51;Online
+A01228;Lleida;33;7;6.0;62;Híbrida
+A02051;Reus;49;16;3.2;58;Online
+A00470;Sabadell;31;29;4.0;94;
+A00636;Reus;22;17;3.4;91;Presencial
+A02290;Manresa;29;14;3.8;54;Híbrida
+A00336;Vic;63;32;5.6;52;Híbrida
+A02116;Girona;36;12;1.6;78;  Online 
+A00552;Reus;54;13;1.9;77;  Online 
+A02350;Mataró;55;9;5.6;81;
+A00656;Barcelona; 25 ;34;2.3;53;Presencial
+A02179;Tarragona;19;14;2.5;79;Híbrida
+A01382;Vic;46;7;4.2;77;Online
+A01461;Tarragona;64;34;1.0;82;Híbrida
+A00218;Girona;48;6;5.9;70;Híbrida
+A01343;Terrassa;;22;0.9;-10;Presencial
+A02344;Sabadell;21;3;1.1;80;Híbrida
+A00953;Reus;41;22;7.9;49;Presencial
+A00348;Barcelona;28;;2.2;99;Online
+A00495;Lleida;60;8;2.2;66;Híbrida
+A01700;Manresa;;23;9.5;68;Presencial
+A02285;Tarragona;22;3;5.5;79;Híbrida
+A02332;Manresa;26;1;7.0;96;Online
+A00604;Mataró;33;15;8.8;97;Híbrida
+A01598;Tarragona;;27;9.3;58;
+A00356;Girona;45;-5;2.2;69;Presencial
+A02484;Sabadell;30;18;8.8;49;  Híbrida 
+A01140; Girona  ;23;2;1.7;50;Híbrida
+A01807;Tarragona;26;7;;60;Presencial
+A00910;Terrassa;35;25;;90;Híbrida
+A00337;Manresa;22;8;4.7;93;Híbrida
+A01953;;21;27;5.4;43;Online
+A00316;Mataró;30;21;0.3;-10;Híbrida
+A01267;Manresa;64;9;8.6;100;Híbrida
+A00162;Mataró;23;2;8.0;71;Presencial
+A00794;Reus;28;4;4.0;80;Presencial
+A00549;Vic;140;1;6.1;74;Híbrida
+A01098;Barcelona;140;11;9.0;92;Presencial
+A00565;Tarragona;38;4;8.3;78;Online
+A00831;Barcelona;60;29;3.9;58;Online
+A01129;Reus;50;9;5.7;77;Híbrida
+A02324;Manresa;64;180;5.6;88;Presencial
+A00498;Barcelona;18;180;9.1;69;Online
+A01908;Terrassa;65;19;2.2;95;Híbrida
+A00324;Lleida;53;18;7.7;75;Online
+A00021;Terrassa;29;20;4.6;78;Presencial
+A01916;Lleida;57;33;9.9;65;Híbrida
+A00186;;18;19;4.2;40;Híbrida
+A02195;Tarragona;38;33;6.0;94;Online
+A02364;Sabadell;60;35;3.9;58;Híbrida
+A01102; Barcelona  ;25;;7.9;63;Híbrida
+A01753;Vic;50;21;9.5;74;Presencial
+A02114;Vic;47;10;1.3;71;Presencial
+A00034;Reus;;25;7.1;55;Presencial
+A02032;Tarragona;36;12;7.5;69;Presencial
+A01099;Reus;16;22;6.5;71;Presencial
+A01544;Lleida;50;34;3.2;68;Presencial
+A02118;Sabadell;45;28;8.9;70;Presencial
+A02386;Manresa;28;33;8.4;60;Híbrida
+A00579;Lleida;60;16;2.9;57;Híbrida
+A02335;Vic;42;3;4.6;100;Híbrida
+A01963;Mataró;38;5;;55;Online
+A02478;Mataró;-4;6;4.7;81;Presencial
+A00917;Girona;35;28;9.8;61;Online
+A01166;Barcelona;21;29;9.1;70;Online
+A00823;Mataró;16;24;1.8;88;Presencial
+A00830;Barcelona;28;180;5.4;66;Híbrida
+A00523;Manresa;58;0;1.1;69;Híbrida
+A01203;Lleida;36;19;0.8;78;Presencial
+A01320;Vic;46;9;2.7;58;Presencial
+A00191;Sabadell;39;21;3.0;52;Presencial
+A00072;Tarragona;54;14;3.2;67;Híbrida
+A01562;Tarragona;57;2;-2.0;90;Online
+A00119;Girona;;10;7.0;65;Online
+A00935;Terrassa;;13;4.5;95;Híbrida
+A01107;Vic; 40 ;8;5.1;95;Online
+A00396;Vic;48;32;5.4;86;Online
+A00837;;52;7;4.7;56;Híbrida
+A01895;Mataró;37;22;7.6;75;Presencial
+A00430;Barcelona;48;17;1.1;;Presencial
+A01130;Manresa;40;33;8.1;68;Híbrida
+A02077;;27;18;13.5;53;Online
+A01587;Mataró;50;30;4.3;78;  Presencial 
+A00688;Reus;34;13;6.2;;Híbrida
+A01678;Lleida;47;15;9.7;41;Híbrida
+A01532;Terrassa;63;12;3.6;40;Presencial
+A00243;Manresa;31;22;1.0;82;Online
+A01397;Mataró;55;4;1.6;86;Híbrida
+A01549;Barcelona;41;23;5.0;42;Online
+A01786; Mataró  ;16;4;9.7;66;
+A01225;Barcelona;53;7;1.7;87;Híbrida
+A00576;Tarragona;58;23;6.3;85;Híbrida
+A00879;Lleida;44;7;2.6;77;Híbrida
+A00555;Reus;53;13; 9.6 ;76;Híbrida
+A01067;   ;59;23;3.8;46;Presencial
+A00874; Reus  ;16;32;3.5;40;  Híbrida 
+A02440;Vic;140;32;9.2;65;Presencial
+A01588;Reus;21;25;3.2;75;Online
+A01134;Lleida;63;34;2.5;48;Online
+A01519;;22;24;1.2;53;Online
+A02018;Lleida;26;15;1.1;87;Presencial
+A00229;Barcelona;17;10;4.9;70;Híbrida
+A00167;Girona;47;28;2.1;76;Online
+A01631;Reus;24;11;0.8;91;Online
+A00214;Girona;36;6;6.4;93;Híbrida
+A01994;Barcelona;22;33;3.5;96;Online
+A02170;;59;4;8.1;66;Presencial
+A00150;Tarragona;39;30;0.8;48;Online
+A01125;Terrassa;52;25;5.1;96;Online
+A00112;Sabadell;54;10;6.9;79;Híbrida
+A00678;Sabadell;47;10;2.3;56;Presencial
+A02049;Mataró;33;9;8.6;54;Presencial
+A01568;Terrassa;21;19;7.5;92;Híbrida
+A00571;Lleida;55;29;2.6;63;Online
+A01748; Mataró  ;29;13;1.9;47;  Online 
+A00514;Girona;42;16;9.4;49;Online
+A01076;Sabadell;18;19;5.8;97;Online
+A01309;Lleida;;26;6.3;76;Híbrida
+A01426;;65;3;9.5;75;  Presencial 
+A02442;Barcelona;64;2; 8.0 ;52;Online
+A02002;Mataró;17;29;;80;Presencial
+A02059;Vic;18;;-2.0;49;Híbrida
+A00621;Girona;63;26;5.2;85;  Híbrida 
+A02349;Lleida;21;;0.2;48;Híbrida
+A00233;Vic;24;33;2.9;97;Online
+A02102;Tarragona;63;17;6.3;56;Presencial
+A01804;Reus; 19 ;33;3.9;85;Online
+A01334;Sabadell;49;;7.7;42;  Híbrida 
+A02377;Tarragona;64;16;6.4;58;Presencial
+A02280; Tarragona  ;52;9;2.0;66;Online
+A00989;Reus;65;33;0.8;;  Presencial 
+A00699;Girona;51;11;8.4;84;Online
+A02229;Girona;38;17;7.8;92;Híbrida
+A00751;Tarragona;37;4;9.4;49;Híbrida
+A00506;Reus;57;27;8.7;53;  Online 
+A01536;Vic;48;9;5.6;83;Presencial
+A00031;;33;10;8.7;68;Híbrida
+A02384;Reus;26;5;6.4;98;Híbrida
+A01849;Lleida;19;11;5.9;;Online
+A00690;Tarragona;49;35;9.8;98;  Híbrida 
+A00458;Vic;55;21;5.8;65;Híbrida
+A01310;Lleida;61;2;1.4;72;Online
+A00797;Tarragona;26;25;2.8;41;Híbrida
+A00962;Sabadell;59;34;  ;95;Presencial
+A01527;Manresa;65;33;0.1;52;Híbrida
+A01803;Reus;39;3;9.7;73;Híbrida
+A00583;Mataró;19;30;8.4;61;Híbrida
+A01092;Terrassa;49;1;;80;Online
+A02023;Sabadell;;32;2.6;89;Presencial
+A01329;Barcelona;41;18;0.7;63;Online
+A00707;Reus;28;35;6.1;49;  
+A00687;Tarragona;26;29;2.7;49;Online
+A01499;Sabadell;62;21;3.2;46;Presencial
+A01649;   ;;18;7.8;97;Híbrida
+A00395;Mataró;49;7;8.5;-10;Híbrida
+A00634;Lleida;54;35;9.9;62;Híbrida
+A01646;Mataró;23;21;9.7;50;Presencial
+A02086;Reus;56;16;4.9;83;Online
+A01247;Sabadell;35;;5.9;;Presencial
+A00864;Terrassa;61;12;1.3;100;Presencial
+A00581;Mataró;31;180;3.5;76;Online
+A00893; Lleida  ;23;12;9.2;59;
+A01879;Mataró;55;1;3.8;46;Presencial
+A01623;Mataró;37;18;5.7;40;Presencial
+A00983;Tarragona;58;30;4.9;91;Presencial
+A02140;Mataró;28;35;2.0;45;Presencial
+A01266;Girona;51;32;8.5;84;Híbrida
+A01419;Girona;16;10;5.3;;Online
+A00651;;59;32;7.9;61;Presencial
+A01521;Terrassa;57;11;;58;Híbrida
+A01213;Manresa;19;19;6.8;77;Híbrida
+A01531;Manresa;39;19;5.0;75;Online
+A02105;Sabadell;52;27;9.6;83;Presencial
+A01480;Reus;31;34; 4.2 ;40;Híbrida
+A01625;Manresa;63;0;;92;Online
+A00398;Terrassa;20;24;9.9;43;Online
+A00650;Girona;33;1;;64;Online
+A01452;Girona;26;7;4.0;75;Presencial
+A01949;Tarragona;51;30;8.3;87;Presencial
+A02256;Girona;17;20;0.2;49;
+A02134;   ;36;6;6.2;95;Presencial
+A01018;Girona;65;23;4.9;60;Online
+A02415;Tarragona;18;14;3.0;47;  Online 
+A02016;Lleida;35;24;5.9;66;Presencial
+A01277;Manresa;21;10;5.6;45;Híbrida
+A01408;Tarragona;59;14;6.5;89;Presencial
+A01978;Reus;58;33;0.6;;  Online 
+A01950;Girona;49;5;;88;Presencial
+A00377;Terrassa;34;;;77;Presencial
+A02286;Lleida;57;7;5.8;58;Presencial
+A01484;Reus;50;23;7.2;46;Online
+A01333;;37;16;9.9;;Online
+A01535;Sabadell;40;2;2.7;42;Online
+A00667;Mataró;17;;0.7;87;  Presencial 
+A01822;Terrassa;28;4;0.1;61;Presencial
+A02317;Lleida;21;7;6.2;63;Híbrida
+A00187;Vic;;32;9.4;99;Híbrida
+A00338;Mataró;55;21;;61;Presencial
+A00746;Terrassa;64;3;6.0;47;Online
+A01191;Vic;63;16;1.5;48;Híbrida
+A01640;Tarragona; 56 ;3;7.0;73;Híbrida
+A01947;Lleida;-4;26;7.6;55;Híbrida
+A00764;Girona;38;0;8.9;65;Online
+A00627; Tarragona  ;59;10;4.6;81;Presencial
+A01472;Reus;46;22;6.4;68;  Presencial 
+A00193;Terrassa;48;9;8.3;94;Online
+A00808;Mataró;56;7;1.4;60;  
+A01683;Reus;;26;7.6;82;Online
+A01090;Lleida;51;28;2.0;91;Presencial
+A02436;Reus;61;;8.8;58;Presencial
+A00184;Girona;46;15;6.7;78;  Presencial 
+A01643;;49;14;3.1;42;Online
+A01233;Terrassa;18;25;8.2;85;Presencial
+A02472;Tarragona;24;21;6.6;63;Híbrida
+A01595;Lleida;24;;6.8;76;Online
+A00285; Tarragona  ;39;15;6.2;93;Presencial
+A00288;Reus;25;5;2.1;65;Híbrida
+A01703;Vic;39;18;;74;Presencial
+A02297;Sabadell;40;27;7.3;48;Presencial
+A00099;Vic;39;2;2.8;99;Presencial
+A01600;Barcelona;19;19;4.3;58;Presencial
+A01867;Vic;42;10;3.2;42;Presencial
+A00392;Lleida;58;7;3.5;53;Online
+A01811;Reus;52;14;1.3;50;Presencial
+A00130;Lleida;59;30;;42;Online
+A02174;Manresa;35;8;1.3;98;Presencial
+A02092;Manresa;38;2;5.1;64;Híbrida
+A00867;Sabadell;;0;9.7;52;Híbrida
+A00564;Terrassa;65;23;7.7;93;
+A00822;Vic;65;23;1.5;45;Online
+A01317;Terrassa;51;23;9.4;84;Presencial
+A01411;Vic;;180;6.8;82;Presencial
+A01477;Mataró;31;13;7.2;91;Híbrida
+A02475;Manresa;34;33;3.2;98;Híbrida
+A00768;Manresa;36;31;1.2;45;Online
+A02273;Mataró;44;27;1.7;83;Online
+A00592;Lleida;36;26; 4.3 ;68;Online
+A00013;Tarragona;42;2;;56;Híbrida
+A00116;Lleida;30;;9.1;73;Online
+A00769;Manresa;29;17;8.4;95;Híbrida
+A02030;Manresa;44;;3.0;72;Híbrida
+A02389;Sabadell;63;7;7.0;92;Híbrida
+A02423;Barcelona;43;10;1.1;56;Online
+A01773;Sabadell;22;24;4.5;58;Híbrida
+A00505;Vic;56;18;1.9;72;  
+A00407;Vic;31;11; 5.5 ;61;Presencial
+A02070;Lleida;19;17;5.2;99;  Online 
+A01779;Girona;42;29;0.1;95;Híbrida
+A01179;Manresa;27;7;4.7;57;Presencial
+A02285;Tarragona;22;3;5.5;79;Híbrida
+A01575;Lleida;42;24;0.5;65;Híbrida
+A01714;Tarragona;57;27;3.4;58;Híbrida
+A00445;Lleida;61;-5;1.1;74;Online
+A01772;Manresa;50;2;7.6;56;Presencial
+A00657;Reus;27;28;9.6;135;Presencial
+A01746;   ;36;11;6.2;44;Online
+A00719;Mataró;58;26;9.8;54;Híbrida
+A02476;Terrassa;26;17;9.2;67;Presencial
+A01118;Reus;52;0;;;Presencial
+A01919; Girona  ;52;24;1.9;74;  
+A01751;Girona;;3;7.6;65;Online
+A00155;;52;3;3.4;42;Online
+A02055;Manresa;63;7;4.0;74;Presencial
+A01060;Lleida;37;16;7.3;91;Presencial
+A00936;Terrassa;17;16;;80;Online
+A00674;Girona;48;9;8.1;61;Online
+A00121;Terrassa;63;30;3.0;49;Híbrida
+A02455;Vic;29;29;9.2;90;Presencial
+A00622;Mataró;44;5;8.2;73;Online
+A02156;Manresa;23;2;2.6;42;Híbrida
+A00322;Reus;32;30;4.1;51;  Híbrida 
+A00040;Manresa;47;33;1.3;61;Híbrida
+A00061;Tarragona;140;2;4.0;92;Online
+A02214;Lleida; 23 ;15;4.6;75;Híbrida
+A01200;Manresa;40;26;4.0;93;Híbrida
+A00292;Mataró;55;28;1.4;135;Híbrida
+A02039;Sabadell;48;7;8.8;47;Online
+A00118;Tarragona;-4;16;7.7;40;Híbrida
+A02292;Vic;64;34;1.3;76;Presencial
+A02418;;62;24;;95;Online
+A00760; Tarragona  ;23;12;0.5;46;Online
+A02241;Tarragona;63;180;1.1;82;Híbrida
+A02124;Terrassa;-4;20;3.3;43;Híbrida
+A00519;Tarragona;19;19;9.1;77;Presencial
+A01495;Terrassa;16;34;;54;  Presencial 
+A00466;Manresa;37;18;1.3;68;Híbrida
+A01716;Sabadell;16;13;;99;Híbrida
+A01403;Reus;140;4;2.4;80;  Online 
+A00673;Tarragona;24;19;9.0;49;Híbrida
+A00677;Sabadell;19;3;5.3;55;Presencial
+A00453;Tarragona;32;5;9.5;52;Presencial
+A01633;Mataró;24;27;-2.0;82;  Online 
+A00202;Girona;43;26;0.5;79;  
+A00375;Lleida;62;24;0.2;55;Presencial
+A02112;Barcelona;48;10;1.4;47;Híbrida
+A01284;Sabadell;30;26;4.4;54;Online
+A01084;Vic;21;11;8.4;92;Online
+A02334;Tarragona;25;19;1.1;43;Presencial
+A01759;Terrassa;18;0;2.4;81;Híbrida
+A01261;   ;59;33;;64;Presencial
+A01218;Reus;36;;10.0;87;Híbrida
+A00508;Girona;56;11;1.2;83;Híbrida
+A01160;Vic;41;;7.4;71;Presencial
+A00773;Vic;57;5;3.3;44;Presencial
+A01872;Terrassa;35;27;;64;Híbrida
+A01906;Tarragona;25;20;6.5;73;Online
+A00533;Girona; 18 ;28;;93;Híbrida
+A02168;Manresa;57;33;8.1;74;Híbrida
+A00858;Lleida;60;3;;85;Híbrida
+A02389;Sabadell;63;7;7.0;92;Híbrida
+A01744;Vic;19;34;7.1;53;Híbrida
+A02082;Barcelona;38;25;0.2;94;Online
+A01264;Tarragona;56;0;8.6;-10;Presencial
+A00003;Girona;22;27;6.5;86;Presencial
+A01206;Mataró;51;30;13.5;83;Híbrida
+A02323;Vic;33;31;3.0;48;  
+A00574;Barcelona; 19 ;13;6.4;46;Online
+A01405;Barcelona;48;19;9.6;45;Híbrida
+A01278;Vic;61;1;-2.0;60;Presencial
+A01930;Terrassa;61;13;7.7;54;Híbrida
+A00845;Sabadell;48;10;;98;Online
+A01970;Terrassa;27;4;7.3;64;Presencial
+A01632;Reus;;12;7.3;81;Presencial
+A00833;Sabadell;;22;4.6;74;Online
+A01897;Barcelona;58;5;1.1;91;Híbrida
+A01170;Lleida;26;26;;51;Híbrida
+A02054;Barcelona;58;6;;-10;Online
+A01319;Tarragona;57;8;3.8;70;Presencial
+A01590;Manresa;32;31;4.9;43;Online
+A01096;Manresa;32;3;0.6;69;Online
+A01152;Terrassa;18;29;1.7;55;Presencial
+A00937;Barcelona;35;33;3.0;88;Híbrida
+A01449;Mataró;52;21;8.3;59;  Online 
+A00476;Mataró;;28;3.1;51;Presencial
+A00487;Sabadell;50;23;8.1;61;Híbrida
+A01877;Lleida;48;10;8.8;80;Híbrida
+A00991;Girona;41;26;3.6;48;Online
+A01896;Girona;33;16;4.2;-10;Presencial
+A01215;Manresa;61;26;4.3;48;Híbrida
+A01467;Reus;47;32;8.4;66;Presencial
+A01086;Terrassa;45;20;5.3;96;Online
+A00914;Sabadell;53;17;7.9;81;Presencial
+A00532; Terrassa  ;49;26;0.4;53;Híbrida
+A02127;Mataró;37;12;0.4;67;Presencial
+A00422;Lleida;27;27;0.5;70;Online
+A00680;Mataró;;34;5.5;66;Online
+A02343;Girona;46;5;-2.0;89;Híbrida
+A01798;;56;;9.8;62;Presencial
+A01760;Vic;47;14;4.5;47;Presencial
+A00254;Manresa;63;25;1.0;40;Híbrida
+A01471;Girona;30;15;8.4;68;Presencial
+A01973;Lleida;65;10;9.1;77;Presencial
+A00820;Terrassa; 39 ;19;2.5;48;Híbrida
+A00469;Manresa;58;34;13.5;47;Presencial
+A00054;Terrassa;22;24;2.4;78;Híbrida
+A00561;Terrassa;;24;9.2;88;Presencial
+A00151;Tarragona;33;35;9.9;48;Online
+A00541;Girona;62;21;9.6;95;Presencial
+A01506;Vic;43;19;6.0;90;Online
+A01236;Barcelona;58;17;7.8;90;Online
+A01580;Manresa;46;15;7.1;-10;Híbrida
+A00066;Barcelona;16;12;8.8;87;Híbrida
+A02499;Manresa;;20;9.3;81;Online
+A01818;Tarragona;30;1;9.7;70;  
+A01194;Lleida;42;32;6.4;80;Híbrida
+A01265;Girona;32;26;7.5;56;  Presencial 
+A01924;Lleida;31;8;  ;78;Presencial
+A01043;Reus;44;15;2.5;91;Presencial
+A00841;Vic;35;;9.4;91;Presencial
+A01881; Terrassa  ;19;20;1.8;80;Online
+A01565;Mataró;30;4;5.1;45;Online
+A00255;Terrassa;;3;4.0;58;Presencial
+A02375; Vic  ;29;3;2.8;100;Presencial
+A01418;Sabadell;64;18;1.5;42;Online
+A01738;Girona;22;3;8.5;-10;Híbrida
+A00506;Reus;57;27;8.7;53;  Online 
+A02295;Vic;;15;3.9;48;Online
+A02443;Barcelona;54;31;7.7;67;Online
+A01034;Manresa;28;33;9.2;96;
+A01458;Terrassa;24;34;2.5;83;Presencial
+A00331;Manresa;36;17;5.9;99;Híbrida
+A00671;Barcelona;140;0;7.4;62;Híbrida
+A01302;;16;1;3.6;45;Online
+A02157;Terrassa;65;31;3.2;88;Presencial
+A02216;Barcelona;50;1;1.3;89;Presencial
+A01911;Terrassa;54;21;;51;Híbrida
+A02184;Vic;45;20;;83;Presencial
+A00502;Barcelona;61;3;0.0;42;Online
+A00345;Lleida;63;6;3.9;97;  Online 
+A01270;Mataró;64;18;4.2;65;Híbrida
+A00759;Mataró;27;33;6.2;84;  Híbrida 
+A02390;Tarragona;27;21;6.4;86;Híbrida
+A00615;Girona; 27 ;31;3.7;72;Online
+A01816;Girona;52;15;3.2;89;Presencial
+A02360;Mataró;-4;5;8.0;84;Online
+A00240;Lleida;34;31;4.8;71;Presencial
+A01673;Girona;54;19;4.1;81;Online
+A02485;Terrassa;18;4;-2.0;58;Online
+A00877;Girona;18;19;7.6;82;Híbrida
+A00748;Barcelona;;7;5.2;47;Presencial
+A00266; Vic  ;48;3;4.6;77;Híbrida
+A02163;Reus;58;20;8.4;40;Híbrida
+A02017;Reus;41;28;0.5;89;Presencial
+A01362;Barcelona;52;6;5.1;76;Online
+A00665; Sabadell  ;20;12;5.2;65;Presencial
+A01871;Vic;56;22;1.4;54;Presencial
+A01904;Manresa;;29;7.8;79;Presencial
+A00342; Lleida  ;19;9;1.0;78;Presencial
+A02189;Manresa;43;20;9.2;45;Híbrida
+A01799;Terrassa;17;23;7.1;96;Presencial
+A02447;Barcelona;27;2;8.3;85;Presencial
+A02257;Terrassa;140;11; 7.7 ;52;Híbrida
+A00415;Tarragona;61;180;7.2;74;Presencial
+A00413;Terrassa;-4;11;2.6;80;Híbrida
+A01518;Terrassa;31;17;5.1;98;  Híbrida 
+A01949;Tarragona;51;30;8.3;87;Presencial
+A01508;Lleida;21;;;66;Híbrida
+A00615;Girona; 27 ;31;3.7;72;Online
+A00069;Vic;31;5;8.8;69;  Presencial 
+A00190; Girona  ;49;33;0.8;55;Online
+A02428;Manresa;41;23;4.8;99;Online
+A00258;Vic;62;14;4.1;;Presencial
+A00047;Vic;38;31;6.7;58;
+A01121; Lleida  ;-4;3;0.4;78;Presencial
+A02100;Sabadell;50;1;3.4;93;Híbrida
+A02188;Tarragona;63;6;6.6;72;Presencial
+A01193;Reus;45;11;1.9;58;Presencial
+A01282;Mataró;61;15;5.4;68;Híbrida
+A00242;Terrassa;37;34;1.6;83;Presencial
+A00866;Lleida;59;0;5.5;59;Híbrida
+A02000;Sabadell;19;24;6.6;72;Online
+A02221;Sabadell;18;4;4.1;91;Híbrida
+A01914;Barcelona;55;;2.2;73;Online
+A01358;   ;40;10;9.4;97;Presencial
+A01156;Vic;;25;5.6;92;Presencial
+A00083;Sabadell;44;180;7.3;71;Presencial
+A01396;Reus;25;15;3.5;70;Presencial
+A01825;Mataró;27;8;0.1;135;Presencial
+A00883;Tarragona;46;33;6.8;71;Híbrida
+A00811;Reus;46;18;7.5;60;Híbrida
+A00373;Reus;63;22;9.9;83;Online
+A00095; Girona  ;44;25;9.4;89;Presencial
+A00568;Terrassa;26;35;-2.0;92;Híbrida
+A01350;Terrassa;23;19;2.1;63;Híbrida
+A00873;   ;62;6;9.1;85;Online
+A00895;Barcelona;42;26;0.2;72;Presencial
+A00248;;34;7;6.2;58;Híbrida
+A00308;Mataró;53;3;1.1;97;Presencial
+A01601;Manresa;63;6;1.5;93;Online
+A00504;Lleida;59;24;7.8;98;Online
+A00194;   ;47;7;3.1;95;Híbrida
+A01948;Reus;36;19;7.1;62;Híbrida
+A02193;Tarragona;;6;7.1;;Presencial
+A02456;Sabadell;24;26;3.4;53;Híbrida
+A00658;Sabadell;38;20;5.5;95;
+A00703; Mataró  ;23;30; 3.1 ;93;Presencial
+A00068;Tarragona;;12;5.4;95;Online
+A01339;Reus;37;35;;97;Presencial
+A00952;Manresa;;17;8.9;96;Híbrida
+A00705;Manresa;57;20;7.7;88;
+A01776;Manresa;39;26; 3.2 ;48;Online
+A00521;Terrassa;55;9;2.1;64;Híbrida
+A02311;Sabadell;65;15;9.8;41;Online
+A01453;Manresa;33;16;1.0;73;Híbrida
+A01684;Manresa;24;9;3.4;96;Online
+A01613;Tarragona;44;35;0.2;57;Híbrida
+A01007; Barcelona  ;30;30;6.9;99;Presencial
+A01659;Barcelona;54;32;4.8;-10;Híbrida
+A02306;Barcelona;51;7;5.6;80;Online
+A01854;Reus;33;9;4.0;42;Presencial
+A00602;Manresa;24;18;6.9;;Presencial
+A00007;Terrassa;42;25;5.2;96;Híbrida
+A02010;Reus;26;28;13.5;41;Presencial
+A01656;Tarragona;41;33;2.0;89;  Online 
+A02417;Mataró;22;14;7.7;61;Online
+A00059;Manresa;-4;0;0.5;94;Presencial
+A00599;Girona;29;15;8.0;60;Híbrida
+A01946;Manresa;40;21;0.2;56;Presencial
+A01584;Vic;48;35;0.0;54;Híbrida
+A00241;Girona;55;29;5.5;95;Híbrida
+A01563;Mataró;47;12;5.1;67;Presencial
+A01338;Lleida;43;13;8.4;73;Presencial
+A00942;Tarragona;38;1;1.1;61;Híbrida
+A00366;Sabadell;140;23;9.9;87;Online
+A02480;;40;22;2.3;55;Online
+A01124;Vic;65;18;5.4;53;Presencial
+A02047;Manresa;27;-5;8.9;64;  Online 
+A00693;Girona;35;7;1.5;82;Híbrida
+A02400;Barcelona;28;9;4.5;40;Híbrida
+A00731;Manresa;;14;9.1;;Presencial
+A02339;Girona;17;4;10.0;90;Híbrida
+A02282;Mataró;61;35;4.6;49;Presencial
+A01962;Manresa;65;3;2.5;44;Híbrida
+A02151;Barcelona;55;33;4.0;58;Híbrida
+A00717;Vic;20;25;6.5;58;Online
+A00650;Girona;33;1;;64;Online
+A00686;Manresa;60;30;1.6;46;Presencial
+A01781;Mataró;55;23;;42;Híbrida
+A00376;Lleida;19;11;3.5;57;
+A01875;Barcelona;30;32;1.5;61;Online
+A00560;Sabadell;57;4;1.7;80;Online
+A00572;Girona;59;3;;76;Online
+A01847;Reus;53;16;1.7;100;Online
+A00929;Girona;63;35;6.6;86;Híbrida
+A00974;Manresa;24;18;9.8;53;Híbrida
+A00133; Barcelona  ;32;29;2.2;60;Híbrida
+A02148;Manresa;18;26;6.5;69;Híbrida
+A02164;Barcelona;34;22;9.2;46;Online
+A01835;Vic;50;24;5.1;48;Presencial
+A00676;Reus;16;14;;60;Híbrida
+A01058;Tarragona;20;16;2.8;92;  Online 
+A00265;Mataró;42;14;0.9;65;Presencial
+A00573;Girona;40;12;2.9;66;Híbrida
+A01227;Terrassa;16;33;8.6;83;Online
+A01450;Manresa;16;;7.4;87;Presencial
+A02135;Lleida;140;22;1.2;93;Híbrida
+A00351;Reus;65;24;;58;Híbrida
+A01110;Manresa;38;5; 8.8 ;64;Híbrida
+A00915;Lleida;140;32;4.7;98;Híbrida
+A00968;Manresa;42;2;6.2;73;Online
+A00159;Girona;19;23;6.6;73;Híbrida
+A02430;Terrassa;52;33;9.9;99;Presencial
+A00235;Sabadell;59;3;5.7;69;
+A00788;Terrassa;33;22;5.8;46;Presencial
+A00008;Reus;41;3;5.4;93;Híbrida
+A02097;Reus;63;0;7.4;96;Presencial
+A00531;Terrassa;-4;22;6.7;100;Presencial
+A01144;Girona;54;1;;77;Online
+A01077;Sabadell;18;7;9.0;40;Online
+A02190;Mataró;43;26;1.9;135;Presencial
+A02371;Terrassa;42;18;2.3;44;Online
+A02354;Terrassa;30;22;8.5;66;Online
+A01725;Lleida;56;29;8.5;55;  Online 
+A01019;Manresa;50;1;5.2;57;Presencial
+A01176;Tarragona;59;19;3.7;100;Online
+A02120;Vic;51;0;6.3;63;Online
+A01574;Mataró;31;17;9.0;54;Híbrida
+A01638;Vic;38;25;;97;Híbrida
+A00496;;30;32;1.9;97;Híbrida
+A00117;Tarragona;32;5;;92;Online
+A01088;Mataró;;4;0.2;100;Híbrida
+A00070;Vic;34;14;1.9;65;Online
+A02322;Lleida;34;13;2.1;;Presencial
+A01558; Reus  ; 30 ;18;3.6;91;Presencial
+A01863;Vic;24;32;8.9;48;  Presencial 
+A02108;;;22;2.1;86;Híbrida
+A02252;Manresa;58;15;2.3;80;Online
+A01229;Girona;55;32;1.6;73;Online
+A02328;   ;30;13;8.4;47;Online
+A00908;Barcelona;65;27;3.7;80;Online
+A00661;Vic;31;30;8.3;72;Híbrida
+A00386;Terrassa;54;8;4.5;76;Presencial
+A02411;Terrassa;19;1;1.0;98;Híbrida
+A01758;Tarragona;60;7;3.5;52;Presencial
+A00885;Girona;-4;2;2.3;80;Presencial
+A00586;Mataró;48;18;3.2;68;Híbrida
+A00772;Mataró;33;5;4.8;66;Híbrida
+A02203;Lleida;51;5;7.8;99;Online
+A00551; Vic  ;46;;5.7;70;Presencial
+A01984;;57;27;1.8;83;Híbrida
+A00088;Mataró;34;33;7.3;42;Híbrida
+A01694;Vic;64;18;4.7;60;Híbrida
+A00518;Sabadell;17;26; 1.3 ;50;Presencial
+A00049;Barcelona;19;6;4.6;94;Online
+A00645;Vic;45;28;6.1;;Online
+A00777;Manresa;34;12; 6.8 ;57;Presencial
+A02081;Tarragona;50;20;0.5;91;Presencial
+A01446;Lleida;54;21;6.9;83;Presencial
+A01272;Reus;37;1;7.1;75;Presencial
+A01520; Mataró  ;24;34;7.6;50;Presencial
+A00406;Barcelona;31;;5.7;88;Híbrida
+A00789;Tarragona;32;35;2.9;92;Híbrida
+A01383;Sabadell;27;33;0.1;91;Presencial
+A00305;Tarragona;140;26;4.9;85;Online
+A01860;;17;34;1.7;73;Online
+A02042;Barcelona;53;1;6.9;47;Presencial
+A01616;Mataró;48;6;1.9;70;  
+A00408;Barcelona;;11;2.8;54;Online
+A01747;Lleida;60;14;3.0;92;Presencial
+A02123;Vic;48;1;8.5;43;Online
+A00055;Girona;54;7;8.9;52;Híbrida
+A01262;Barcelona;51;0;4.1;83;Presencial
+A00148;Vic;25;22; 2.8 ;74;Online
+A01454;Girona;38;2;3.0;76;Presencial
+A01330; Sabadell  ;41;8;0.8;70;Online
+A00821;Sabadell;61;16;7.7;95;Híbrida
+A00434;;41;10;0.6;48;Híbrida
+A01797;Manresa;28;15;5.9;91;Híbrida
+A00545;Girona;39;13;5.4;91;Presencial
+A01694;Vic;64;18;4.7;60;Híbrida
+A01550;;48;8;5.8;56;Híbrida
+A00730;Girona;53;2;9.9;135;Híbrida
+A01698;Girona;26;4;6.5;88;Online
+A01406; Barcelona  ;20;1; 9.9 ;50;Híbrida
+A01045; Vic  ;46;7;0.9;82;Híbrida
+A00203;Mataró;57;;1.6;63;Online
+A01689;Vic;57;27;6.0;72;Híbrida
+A01682;Terrassa;64;;4.3;83;Online
+A02477;Barcelona;28;26;9.6;90;Online
+A01221;Girona;30;7; 0.5 ;47;Híbrida
+A01428;Manresa;;10;3.4;65;Online
+A00006;Lleida;28;30;5.9;86;Híbrida
+A02177;Lleida;56;23;2.0;40;Presencial
+A02368;Tarragona;25;19; 6.1 ;64;Híbrida
+A02463;Vic;41;9;3.1;53;Híbrida
+A01734;Tarragona;;5;2.0;51;Híbrida
+A00225;Sabadell;39;17;0.5;83;Presencial
+A02253;Manresa;37;22;1.7;64;Online
+A01865;Manresa;58;15;2.8;84;Presencial
+A00736;Barcelona;16;4;8.9;85;  Presencial 
+A01761;Manresa;65;16;4.6;49;Presencial
+A02355;Girona;32;10;3.9;100;Online
+A01612;;53;17;;54;Presencial
+A02155;Vic;65;28;0.6;92;Híbrida
+A02125;Tarragona;;21;7.6;94;Online
+A01158;Tarragona;53;25;9.0;65;Híbrida
+A01281;Sabadell;140;13;1.1;95;Híbrida
+A00933;Barcelona;29;1;0.3;78;Online
+A01307;Girona;26;16;4.1;84;Presencial
+A00426;Lleida;60;5;-2.0;91;Presencial
+A00553;Manresa;31;14;9.6;-10;Online
+A02238;Vic;55;7;1.1;46;Presencial
+A01159; Manresa  ;140;18;8.0;93;Online
+A01059;Vic;23;14;3.0;40;Presencial
+A00122;Sabadell;140;24;0.7;95;Online
+A01737;Girona;29;20;4.2;46;Híbrida
+A02220;Terrassa;53;20; 5.3 ;63;Híbrida
+A01036;Reus;56;0; 8.6 ;50;Presencial
+A00048;Manresa;56;18;8.7;45;Presencial
+A01653; Barcelona  ;45;;1.4;49;Híbrida
+A02161;Barcelona;43;26;8.1;69;Online
+A00894;Lleida;34;13;9.5;86;Presencial
+A00530;Sabadell;25;29;1.4;55;Online
+A00728;Lleida;50;21;;52;Híbrida
+A00994;Reus;62;8;-2.0;81;Presencial
+A00984;Tarragona; 51 ;18;8.7;44;Online
+A02379;Girona;140;18;;74;Híbrida
+A01669;Reus;49;35;6.0;74;Online
+A00217;;37;13;9.7;44;Online
+A01336;Vic;27;23;9.0;75;Híbrida
+A01566;Lleida;43;;2.0;99;Online
+A00174;Sabadell;24;;9.9;96;Online
+A01048;Vic;40;10;6.9;70;Presencial
+A01651;Barcelona;51;25;;69;Online
+A00944;Vic;-4;26;2.0;73;Presencial
+A01347;Mataró;42;11;7.4;100;Presencial
+A02320;Tarragona;63;;3.4;43;Online
+A00128;Barcelona;35;14;1.8;85;Presencial
+A01739;Reus;42;25; 8.1 ;46;
+A01855;Girona;59;18;4.5;100;Online
+A01483;Barcelona;64;23;4.5;77;Híbrida
+A01041;Terrassa;49;13;0.1;53;Online
+A00146;Girona;20;4;6.0;135;Online
+A01111;Lleida;29;2;4.6;82;  
+A00987;Girona;29;11;5.8;71;
+A01868;Manresa;16;10;6.6;99;Híbrida
+A01965;Barcelona;60;15;0.0;93;Presencial
+A01003;Terrassa;-4;11;1.8;89;Híbrida
+A01286;Reus;62;23;6.9;50;Online
+A01040;Vic;60;31;;61;Presencial
+A02187;Mataró;40;2;6.8;66;Presencial
+A01232;Manresa;55;32;6.3;50;Presencial
+A00852;Girona;46;4;-2.0;84;Online
+A01890;Reus;23;30;2.9;67;Presencial
+A01161;Barcelona;24;32;0.8;;Híbrida
+A01226;Mataró;43;26;0.8;80;Presencial
+A01344;Lleida;44;10;8.2;96;Presencial
+A00712;Reus;24;-5;6.7;64;Híbrida
+A02403;Lleida;37;-5;9.1;99;Híbrida
+A00247; Manresa  ;43;21;;44;Online
+A00329;Barcelona;53;23;7.2;47;
+A01968;Mataró; 58 ;5;9.4;100;Online
+A00907;Girona;47;30;2.6;62;Online
+A00420;Girona;64;25;5.3;88;Presencial
+A01435;Manresa; 52 ;22;8.5;54;Online
+A00017;Lleida;;31;0.7;46;Presencial
+A01503;Sabadell;43;14;7.5;88;Híbrida
+A02346;Manresa;;19;2.9;82;  Online 
+A00436;Mataró;34;32;1.9;73;Híbrida
+A00766;Manresa;37;23;6.9;76;Online
+A02098;Girona;56;11;8.0;57;Online
+A00704;Manresa;45;35;0.9;60;Híbrida
+A02046;;31;4;4.3;91;Híbrida
+A01348;Mataró;32;26;9.5;76;Online
+A00439;Mataró;40;13;1.3;48;Online
+A01657;Lleida;65;0;1.8;48;Híbrida
+A01274;Barcelona;31;30;;48;Presencial
+A01733;Mataró;21;2;7.9;86;Online
+A00347;Barcelona;46;31;5.2;55;Online
+A00145;Manresa;62;;3.9;76;Presencial
+A02239;Barcelona;54;15;4.6;56;Híbrida
+A01119;Mataró;48;7;8.9;53;Online
+A02451; Girona  ;59;4;9.9;;Híbrida
+A02326;Girona;65;30;8.4;77;Híbrida
+A02464;Reus;59;20;6.0;97;Presencial
+A01629;Mataró;40;0;0.5;68;Presencial
+A01869;Manresa;30;-5;1.6;41;Híbrida
+A00588;Barcelona;64;35;3.5;74;Presencial
+A02226;Mataró;16;4;0.7;43;Híbrida
+A01447;Lleida;56;4;9.4;61;Presencial
+A01152;Terrassa;18;29;1.7;55;Presencial
+A00793;Vic;140;26;;75;Presencial
+A00547;Tarragona;65;8;5.2;82;Presencial
+A00274;Terrassa;48;24;8.0;63;Híbrida
+A02316;Tarragona;35;19;0.1;77;Presencial
+A00865;Terrassa;43;23;2.8;41;Híbrida
+A02420;Sabadell;35;0;6.1;50;Online
+A00543;Terrassa;19;2;6.8;90;Presencial
+A01545;Girona;57;10;8.3;50;Online
+A01926;Girona;36;8;3.3;85;Híbrida
+A00249;Reus;28;180;1.7;65;Presencial
+A01581;;;16;0.8;84;Online
+A02459;Barcelona;42;26;6.1;42;Presencial
+A00791;Sabadell;47;8;2.1;48;Online
+A02407;Vic;57;180;1.1;44;Presencial
+A02352;Manresa;27;1;9.3;48;Presencial
+A00382;Terrassa;18;18;5.2;46;Híbrida
+A01294;Vic;52;5;4.7;65;Híbrida
+A01572;Mataró;26;4;6.5;82;Online
+A01824; Lleida  ;35;30;0.4;80;Híbrida
+A02205;Vic;41;3;3.3;92;Híbrida
+A00982;Girona;19;19;6.1;81;Híbrida
+A02158;Lleida;45;180;;51;Presencial
+A00606;Barcelona;27;28;6.0;80;  
+A01685;Manresa;39;3;6.5;62;Online
+A02304;Barcelona;19;22;0.7;88;Presencial
+A01697;Girona;61;31;6.5;82;Online
+A00332;Lleida;33;180;4.2;52;Presencial
+A00067;Lleida;17;28;13.5;83;Online
+A00809;Manresa;47;23;2.6;53;Online
+A01989;Tarragona;;2;;68;Online
+A00556;Reus;41;22;3.0;98;Híbrida
+A00364;Lleida;31;26;;57;Online
+A00147;Terrassa;53;2;1.0;54;Presencial
+A00082;Barcelona; 16 ;34;6.4;69;Online
+A01543;Lleida;38;27;5.0;62;Presencial
+A01665;Vic;24;7; 2.1 ;98;Híbrida
+A01202;Sabadell;48;14;9.2;72;Híbrida
+A01257;Barcelona;56;20;3.6;52;Presencial
+A01614;Lleida;62;3;8.3;45;Híbrida
+A02196;Sabadell;140;22;7.1;83;Online
+A00849;Manresa;64;17;9.0;50;Presencial
+A02126;Manresa;41;23;6.8;51;Online
+A01102; Barcelona  ;25;;7.9;63;Híbrida
+A01066;Manresa; 58 ;23;;76;Híbrida
+A00988; Girona  ;59;2;;81;Presencial
+A01607;Vic;41;25;5.2;71;Online
+A02133;Mataró;24;11;7.5;-10;Híbrida
+A01852;Tarragona;46;15;4.0;65;Presencial
+A02479;Terrassa;35;29;13.5;44;Híbrida
+A01971;Barcelona;65;13;9.3;135;Online
+A00267;Vic;36;-5;4.0;71;Online
+A00623;Vic;53;-5;6.7;53;Presencial
+A01420;Lleida;64;12;-2.0;61;Online
+A00179;Terrassa;56;15;1.8;98;Online
+A01147;;27;16; 6.7 ;99;Online
+A00307;Tarragona;52;31;1.9;64;Presencial
+A01232;Manresa;55;32;6.3;50;Presencial
+A00940;Terrassa;43;3;3.5;58;
+A02414;Barcelona;;32;-2.0;83;Presencial
+A01353;Lleida; 37 ;14;4.6;94;Presencial
+A00597;Sabadell;38;23;0.6;92;Híbrida
+A01939;Vic;18;19;1.1;44;Híbrida
+A00516;Vic;20;34;2.3;;Presencial
+A01017;Vic;58;16;5.9;43;Presencial
+A00589;   ;37;18;1.7;54;Online
+A00043;Sabadell;30;25;4.1;;Online
+A00526;Manresa;46;25;3.7;72;Híbrida
+A00884;Tarragona;;6;;58;Presencial
+A00896;Reus;60;30;3.0;85;Online
+A02012;Vic;34;17;3.3;84;Híbrida
+A02244;Girona;;19;1.9;54;Híbrida
+A00713;;50;34;1.7;97;  Presencial 
+A01172;Lleida;58;0;2.4;74;Híbrida
+A00287;Girona; 46 ;3;3.3;99;Presencial
+A01861;Vic;61;27;8.1;97;Online
+A00761;Sabadell;46;0;9.6;46;Online
+A02294;;31;34; 8.7 ;47;Presencial
+A01674;;64;13;8.9;44;Híbrida
+A01488;;53;6;2.5;91;Presencial
+A01622;Manresa;38;19;1.4;72;Presencial
+A00655;Barcelona;46;8;8.8;76;Híbrida
+A01724;Barcelona;65;10;5.0;87;Online
+A01085;;44;35;4.7;78;Híbrida
+A01366;Lleida;48;20;3.2;51;Online
+A01244;Manresa;58;14;0.3;43;Online
+A01708;Girona;140;4;6.5;71;Online
+A00762;Mataró;27;21;6.0;90;Presencial
+A00993;Reus;30;7;3.6;70;Híbrida
+A02425;   ;35;31;6.7;77;Online
+A00115;Sabadell;29;2;8.4;66;  Híbrida 
+A01624;Manresa;32;;0.4;76;Híbrida
+A00533;Girona; 18 ;28;;93;Híbrida
+A02172;Lleida;47;30;5.1;41;Online
+A02309;Reus;29;32;0.6;41;Presencial
+A01524;Lleida;20;22;9.9;42;Online
+A00903;Manresa;23;1;2.4;;Presencial
+A01585;Sabadell;23;24;9.8;100;Presencial
+A00591;Manresa;18;7;1.8;81;Híbrida
+A00134;Terrassa;58;2;13.5;66;Híbrida
+A02266;Manresa;26;7;3.1;87;Híbrida
+A00481;Reus;27;4;  ;97;Online
+A01070;Terrassa;42;3;10.0;74;Presencial
+A00892;Sabadell;61;15;6.6;43;Presencial
+A01564;Terrassa;;25;8.2;79;  Online 
+A01511;Vic;31;33;2.6;49;Online
+A01430;Sabadell;61;26;;90;Presencial
+A01850;Barcelona;49;7; 0.3 ;59;Online
+A02416;Lleida;44;14;4.1;95;Presencial
+A00393;Manresa;61;29;5.2;58;Online
+A00276;Girona;17;19;2.3;90;  Online 
+A02453;Reus;34;3;1.1;52;Híbrida
+A01351;Girona;59;15;2.1;41;Online
+A00995;Reus;38;1;6.3;76;Presencial
+A02058;Lleida;57;25;1.0;79;Online
+A02131;Reus;27;9;8.3;82;Presencial
+A00836; Girona  ;53;5;5.4;55;Online
+A01888;Vic;-4;10;8.3;92;Online
+A01364;;48;9;8.1;65;Híbrida
+A02149;Lleida;35;31;5.9;84;Online
+A00780;Mataró;52;21;;53;Online
+A01175;Manresa;52;1;8.8;93;
+A00875;Barcelona;27;4;3.4;55;Online
+A00154;Mataró;37;16;8.0;48;Híbrida
+A01658;Sabadell;44;6;7.7;57;Híbrida
+A01365;Barcelona;17;14;;94;Híbrida
+A01254; Manresa  ;65;27;7.2;51;Híbrida
+A00108;Sabadell;40;30;2.2;87;Presencial
+A00449;Girona;37;27;8.3;73;Presencial
+A00175;Manresa;55;18;7.0;79;Híbrida
+A02001;Vic;56;;5.5;85;  Híbrida 
+A01976; Tarragona  ;63;14;;85;Presencial
+A00922;Tarragona;20;35;7.1;77;Híbrida
+A00256;Reus;33;14;0.1;95;Híbrida
+A01079;Manresa;57;180;;99;Híbrida
+A01705;;29;24;2.0;53;Híbrida
+A02013;Vic;140;34;8.8;47;Híbrida
+A00260;Lleida;37;17;;42;Presencial
+A02056;Manresa;35;0;4.2;51;Online
+A00104;Vic;49;9;;54;Híbrida
+A01141;Manresa;55;16;5.9;77;Online
+A01498;Terrassa;53;3;0.4;92;Híbrida
+A00130;Lleida;59;30;;42;Online
+A02080;Terrassa;60;5;;57;Online
+A02469;Mataró;42;2;7.0;100;Híbrida
+A01821;Tarragona;59;7;6.3;49;Híbrida
+A01122;Mataró;;9;3.2;83;Híbrida
+A02199;Vic;36;16;8.1;99;Online
+A00062;;64;33;2.6;93;Online
+A01331;Tarragona;56;8;2.7;81;Híbrida
+A00961;;39;19;2.1;57;Online
+A01259;Barcelona;39;3;9.6;94;Presencial
+A01438;Barcelona;31;6;0.9;56;Presencial
+A00325;Lleida;23;19;;89;Online
+A01246;Vic;19;-5;6.2;69;Presencial
+A00064;Mataró;17;10;5.5;83;Híbrida
+A02327;Tarragona;49;33;;69;Online
+A01945;Girona;32;29;0.1;69;Híbrida
+A02093;Girona;21;0;;72;  Online 
+A00037;Reus;60;5; 4.0 ;86;Híbrida
+A02227;Mataró;;27;4.0;43;Híbrida
+A01981;Sabadell;45;17;1.2;40;Híbrida
+A00485;   ;58;9;9.0;42;Online
+A00890;Reus;30;-5;5.6;68;Híbrida
+A01922;;33;23;1.9;75;Online
+A02287;Tarragona;65;27;4.1;57;Híbrida
+A01387; Mataró  ;53;0;2.3;135;Online
+A00898;Lleida;29;7;2.5;65;Presencial
+A01829;;-4;23;1.1;48;Online
+A01155;Mataró;33;5;2.9;66;Presencial
+A00425;Girona;;35;7.4;95;Híbrida
+A01216; Girona  ;22;11;4.8;68;Presencial
+A02141;Terrassa;63;16;3.9;51;Online
+A01573;Girona;31;14;;85;Online
+A02204; Girona  ;60;;3.0;75;Online
+A00022;Mataró;39;24;8.1;77;Híbrida
+A00264;Tarragona;57;31;7.7;87;Híbrida
+A01078;Vic;21;28;4.9;52;Presencial
+A00428;Terrassa;51;9;3.0;68;Presencial
+A00816;Mataró;;10;0.8;76;Online
+A00538;Mataró;60;0;8.9;70;Online
+A00001;Vic;57;31;1.6;92;Híbrida
+A00110;Mataró;40;5;7.1;74;Híbrida
+A01114;Terrassa;19;25;5.9;92;Híbrida
+A00120;Sabadell;28;6;5.4;80;Presencial
+A00500;Mataró;53;1;4.5;87;Online
+A00427;Terrassa;140;15;5.1;53;Online
+A01231;Lleida;49;11;1.4;54;Presencial
+A01197; Tarragona  ;23;25;2.4;74;Online
+A01201;Sabadell;32;22;6.4;97;Presencial
+A02449;;60;10;1.9;-10;Online
+A02426;Tarragona;48;3;3.6;98;Online
+A00666;Tarragona;23;33; 5.8 ;50;Online
+A01910;Barcelona;40;19;5.1;72;Online
+A01778;Reus;40;1;3.9;41;Híbrida
+A01931;Mataró;39;34;7.5;73;Híbrida
+A00856;Mataró;43;21;1.8;52;Híbrida
+A01493;Tarragona;20;12;4.3;59;Online
+A02249;Terrassa;60;5;;48;Presencial
+A01820;Terrassa;44;7;;62;Online
+A01712;Vic;33;35;1.3;46;Online
+A00042;Barcelona;65;24;6.6;48;Online
+A02147; Reus  ;34;13;9.1;66;Híbrida
+A00385;Barcelona;37;25;8.6;64;Presencial
+A01324;Barcelona;42;30;9.9;93;Híbrida
+A01884;Mataró;34;2;0.4;45;Online
+A01039;Sabadell;34;5;0.7;88;Híbrida
+A01177;Sabadell;33;32;5.1;86;Presencial
+A02076;Manresa;30;32;8.9;82;Online
+A01997;Reus;30;31;0.9;65;Online
+A01251;Terrassa;30;4;4.6;60;Presencial
+A01355;Tarragona;37;23;10.0;74;Online
+A01913;Barcelona;26;14;4.6;94;Online
+A02257;Terrassa;140;11; 7.7 ;52;Híbrida
+A01188;Reus;42;12;7.5;68;Híbrida
+A01104;Mataró;47;25;8.0;84;  Presencial 
+A01209;;33;32;;78;Presencial
+A00459;Manresa;;24;8.9;91;Presencial
+A01374;Girona;49;14;3.1;90;Híbrida
+A00005;Barcelona;64;17;0.5;92;Híbrida
+A01044;Lleida;17;;4.2;56;Híbrida
+A01247;Sabadell;35;;5.9;;Presencial
+A02435;Terrassa;33;18;4.4;71;Presencial
+A01056;Barcelona;36;31;5.6;76;Online
+A00932;Barcelona;41;18;8.1;91;Online
+A02258;Reus;25;6;3.0;75;Híbrida
+A01749;Manresa;62;12;5.1;51;Presencial
+A02061;Reus;59;7;8.3;98;Presencial
+A00528;Vic;21;19;9.9;71;Híbrida
+A00136;Girona;;29;6.3;49;Online
+A01859;Reus;49;16;;91;Híbrida
+A01033;Terrassa;25;34;8.3;48;Híbrida
+A00618;Barcelona;61;5;7.5;98;Presencial
+A01627;Vic;60;2;4.0;40;Presencial
+A00163;Barcelona;46;5;9.4;72;Online
+A00129;Tarragona;26;0;1.0;;Online
+A00916;Vic;26;21;9.1;64;Presencial
+A00313;Girona;24;24;3.3;76;Híbrida
+A01002;Barcelona;54;18;8.6;55;Online
+A00971;Terrassa;51;26;3.1;70;Online
+A02267;Vic;56;32;6.5;95;Presencial
+A00513; Girona  ;65;19;5.9;72;Online
+A00575;Manresa;38;16;5.1;45;  Online 
+A00700;Girona;37;11;6.8;73;Presencial
+A01925;Mataró;54;2;3.9;92;Online
+A00501;Lleida;36;19;8.5;78;Híbrida
+A01777;Reus;21;32;2.9;49;Online
+A02500;Vic;27;20;0.9;79;Online
+A01069;Reus;62;13;0.4;97;Híbrida
+A02090; Manresa  ;32;5;8.8;59;Presencial
+A02138;Manresa;20;11;2.7;43;Presencial
+A00716;Lleida;43;10;7.6;76;Híbrida
+A00989;Reus;65;33;0.8;;  Presencial 
+A00828;Reus;16;2;6.0;73;  Presencial 
+A01429;Tarragona;59;2;4.9;86;Presencial
+A01316;Tarragona;16;14;9.1;86;
+A02336;Lleida;33;8;2.3;135;Híbrida
+A01695;Terrassa;54;19;2.4;52;Presencial
+A00827;Terrassa;43;32;7.6;62;Online
+A01554;Tarragona;31;5; 3.5 ;80;Online
+A00671;Barcelona;140;0;7.4;62;Híbrida
+A01089;Mataró;23;34;7.5;100;Presencial
+A00620;;43;29;9.8;63;Híbrida
+A01796;Manresa;65;13;7.7;42;Online
+A01690;Terrassa;57;34;;100;Híbrida
+A00278;Sabadell;60;31;6.3;81;Híbrida
+A00814;Terrassa;50;21; 4.2 ;85;Híbrida
+A01766;Lleida;18;25;0.0;45;Híbrida
+A01285;Vic;39;19;0.3;50;Híbrida
+A01927;Girona; 37 ;23;7.1;74;
+A01392;Barcelona;18;;5.3;59;Online
+A01641;Girona;29;30;6.4;88;Online
+A00205;Vic; 65 ;25;4.8;91;Híbrida
+A00388;   ;25;29;7.8;94;Presencial
+A01985;Vic;17;10;6.0;52;Online
+A02373;Terrassa;17;12;4.7;74;Online
+A01105;Mataró;;17;;66;Presencial
+A00859;Vic;47;17;0.0;93;Presencial
+A01327;Lleida;50;15;8.3;79;Online
+A01000;Mataró;34;23;9.2;57;Online
+A00725;Reus;40;;2.5;77;Presencial
+A02334;Tarragona;25;19;1.1;43;Presencial
+A01513;Mataró;;-5;7.6;96;Online
+A01250;Reus;52;14;0.2;41;Presencial
+A00016;Reus;35;13;6.8;41;Online
+A01815;Vic;30;7;0.9;79;Híbrida
+A01967;Vic;16;17;7.0;40;Presencial
+A01410;Manresa;27;2;8.9;82;
+A00567;Sabadell;38;32;2.6;84;Online
+A00880;Terrassa;24;20;7.8;76;Híbrida
+A00014;Girona;60;27;5.3;61;Presencial
+A00412;Barcelona;22;18;6.9;49;Online
+A01736;;65;19;0.5;75;Online
+A01730;Tarragona;52;22;2.5;60;Online
+A01051;Barcelona;43;33;3.0;91;Presencial
+A00091;Lleida;46;5;;44;Online
+A00204;Tarragona;;23;4.3;57;Híbrida
+A02185; Reus  ;63;8;8.4;74;  Híbrida 
+A01465;Reus;32;17;5.6;86;Híbrida
+A00317;Terrassa;23;8;7.2;59;Híbrida
+A00367;Manresa;59;26;8.1;43;Online
+A01006;Terrassa;45;27;9.9;80;Presencial
+A01899;Tarragona;65;17;3.4;50;Híbrida
+A00695;Vic;64;2;4.4;45;Presencial
+A02101;Terrassa;30;30;9.9;50;Online
+A01876;Manresa;56;31;13.5;50;Online
+A00418; Sabadell  ;64;33;9.8;52;Online
+A00380; Manresa  ;50;8;5.8;58;Online
+A02450;Mataró;44;17;6.5;50;Presencial
+A00026;Lleida;61;1;;58;Híbrida
+A01478;Girona;42;9;1.2;70;Online
+A01599;Tarragona; 22 ;1;;54;Presencial
+A00832;Barcelona;49;9;;76;Online
+A02399;Reus;48;13;3.3;59;Presencial
+A00464;Manresa;26;;9.7;67;Presencial
+A00185;Terrassa;30;30; 8.0 ;72;Híbrida
+A01031;Manresa;54;25;2.1;90;Presencial
+A00123;Sabadell; 23 ;20;6.0;65;Híbrida
+A00220;Mataró;30;22;3.4;88;Online
+A00352;Terrassa;58;27;8.5;98;Híbrida
+A01804;Reus; 19 ;33;3.9;85;Online
+A02045;Sabadell;64;5;2.5;92;Híbrida
+A00803;Manresa;55;29;7.7;135;Híbrida
+A01597;Manresa;28;24;5.2;79;Presencial
+A01146;Girona;64;30;7.0;50;Online
+A01046;Mataró;54;4;2.6;48;Híbrida
+A00085;Manresa;;3;9.8;94;Online
+A00747;Sabadell;63;180;7.1;63;Online
+A00819;Manresa;63;13;;48;Online
+A01456;Vic;58;8;;71;Online
+A00141;Girona;37;27;2.0;81;
+A01870;Girona;;35;2.0;81;Híbrida
+A01510;Tarragona;38;14;4.2;88;Online
+A00094;Sabadell;60;8;6.6;81;
+A00435;Tarragona;59;;5.6;52;Online
+A01009;Lleida;40;10;4.4;58;Online
+A01425; Reus  ;31;11;5.3;45;Online
+A02454;Reus;46;30;5.1;83;Híbrida
+A01902;Vic;42;30;9.9;69;Online
+A00633;Vic;59;34;5.0;75;Híbrida
+A02419;Sabadell;-4;34;7.9;43;Presencial
+A02341;Sabadell;48;3;1.9;64;Presencial
+A02048;Girona;24;7;4.9;40;Online
+A00594;Tarragona;46;12;3.3;58;Híbrida
+A01464;Barcelona;140;11;8.5;94;Presencial
+A00298;Mataró;54;3;2.9;43;Híbrida
+A00460;Lleida;53;4;1.6;97;  Presencial 
+A02367;Girona;40;12;1.6;52;Online
+A01589;Girona;46;6;8.9;83;Híbrida
+A02281;Vic;22;26;9.1;43;Híbrida
+A00709;Vic;53;21;4.8;75;Presencial
+A01579;Mataró;31;25;3.8;43;Presencial
+A01515;Mataró;39;29;7.4;68;  
+A01596; Manresa  ;21;28;7.2;81;Híbrida
+A00847;Girona;55;2;9.8;96;Presencial
+A00053;Vic;46;19;8.4;89;Híbrida
+A00188;Mataró;30;33;6.3;85;
+A02305;Manresa;19;25;7.5;93;Híbrida
+A01053;Vic;49;27;;81;Online
+A00694;Sabadell;21;20;1.3;99;Híbrida
+A01637;Reus;41;13;7.6;73;Online
+A02408;Lleida;41;21;2.5;;Presencial
+A02382;Lleida;37;7;0.1;58;Híbrida
+A02237;Girona;29;23;9.7;73;Híbrida
+A00114; Reus  ;63;4;3.1;98;Híbrida
+A02043;Barcelona;26;8;5.2;88;Presencial
+A00494; Vic  ;31;22;;73;Híbrida
+A00584;Reus;57;7;6.9;135;Híbrida
+A01784;Mataró;42;35;8.0;52;Híbrida
+A00912; Vic  ;16;0;1.3;92;Online
+A01569;Reus;29;31;7.0;58;Híbrida
+A01801;Reus;30;2;3.6;73;Online
+A01571;Lleida;29;21;5.0;64;Presencial
+A01388;Manresa;22;33;1.6;69;Online
+A00397;Tarragona;59;5;6.9;74;Online
+A00696;Lleida;50;;8.5;71;Presencial
+A01628;Lleida;29;23; 5.1 ;84;Online
+A01961;Manresa;38;9; 1.7 ;65;Presencial
+A00028;Vic;65;32;1.1;82;Presencial
+A00227;Terrassa;17;2;5.3;63;Online
+A01085;;44;35;4.7;78;Híbrida
+A01515;Mataró;39;29;7.4;68;  
+A02079;Tarragona;49;14;9.4;74;Presencial
+A01740;Manresa;47;;6.6;88;Online
+A00328;Lleida; 60 ;10;0.9;78;Presencial
+A01634; Tarragona  ;51;5;2.2;;Online
+A02126;Manresa;41;23;6.8;51;Online
+A00566;Terrassa;32;11;8.7;82;Online
+A01534;Barcelona;-4;8;;91;Presencial
+A01354;Lleida;27;17;2.7;55;Presencial
+A00778;Vic;30;3;0.2;86;Híbrida
+A01168;Girona;61;31;0.3;135;Presencial
+A00739;Barcelona;61;10;5.8;82;Presencial
+A02413; Sabadell  ;42;15;7.4;70;Presencial
+A01858;Barcelona;41;12;7.0;100;Presencial
+A00451;Mataró; 25 ;35;9.6;44;Híbrida
+A01026; Reus  ;18;2;3.5;83;Online
+A02427;Sabadell;53;7;8.8;47;Online
+A00918;Lleida;;11;8.3;62;Híbrida
+A01357;Terrassa;-4;16;3.3;69;  Online 
+A01401;Barcelona;62;13;6.2;96;Online
+A02154;Terrassa;29;34;1.1;43;Híbrida
+A00172;Terrassa;20;2;6.5;;Presencial
+A01025;Manresa; 59 ;24;5.0;83;Híbrida
+A00708;Reus;-4;19;5.2;78;Online
+A00920;Mataró;18;25;3.0;63;  Híbrida 
+A00452;Tarragona;47;17;5.5;85;Híbrida
+A01899;Tarragona;65;17;3.4;50;Híbrida
+A00517;Vic;55;27;4.9;51;
+A01856;Girona;21;;7.0;83;Híbrida
+A00722; Tarragona  ;46;15;4.0;97;Online
+A01176;Tarragona;59;19;3.7;100;Online
+A00149;Terrassa;26;19;7.5;79;Online
+A01208;Sabadell;65;9;0.6;80;Híbrida
+A01974;Mataró;39;0;3.7;93;
+A02261; Vic  ;;25;7.5;49;Online
+A00891;Manresa;62;13;1.3;56;Presencial
+A01153;Reus;61;28;0.7;82;Híbrida
+A01093;Terrassa;59;13;9.2;89;Híbrida
+A02062;Reus;30;7;1.2;66;Online
+A01440;Terrassa;36;9;8.8;68;Online
+A00672;Lleida;24;3;2.4;95;Híbrida
+A01567;Mataró;17;28;3.4;94;Presencial
+A01670;Lleida;33;19;4.9;42;Presencial
+A02007;Terrassa;38;4;2.3;90;Híbrida
+A00102;Barcelona;;2;8.8;67;Online
+A02276;Girona;28;25;4.3;69;Presencial
+A00414;Terrassa;21;22;9.0;53;  Híbrida 
+A01375;Girona;16;14;0.8;55;Híbrida
+A01842;Vic;49;11;2.6;99;Presencial
+A01943;Sabadell;65;;13.5;51;Híbrida
+A00346;Mataró;36;33;6.6;46;Online
+A01815;Vic;30;7;0.9;79;Híbrida
+A01136;Sabadell;45;11;-2.0;53;Online
+A01991;Vic;29;27;2.1;53;Online
+A01494;Mataró;19;180;9.4;78;Presencial
+A01707;Vic;40;5;5.1;71;Híbrida
+A00954;Terrassa;25;25;1.6;68;Híbrida
+A00444;Tarragona;40;16; 0.5 ;97;Presencial
+A01195;Vic;18;32;5.9;91;Presencial
+A00479;Vic;54;34;2.5;81;Híbrida
+A00221;Vic;;3;;56;Presencial
+A01108;Tarragona;26;14;3.1;66;Presencial
+A00902;Barcelona; 42 ;8;1.5;99;Presencial
+A00855; Reus  ;51;1;0.8;65;Online
+A02171;Lleida;42;5;;74;Híbrida
+A01186;Manresa;61;19;4.6;91;Híbrida
+A02115;Tarragona;20;11;0.6;58;
+A00812;Terrassa;57;;4.6;62;Presencial
+A02183;Terrassa;-4;18; 7.2 ;66;Híbrida
+A00135;Barcelona;57;8;4.7;50;Online
+A00790;Tarragona;24;12;4.1;-10;Online
+A00818;Girona;32;23;0.7;85;Presencial
+A02144;Reus;26;16;13.5;90;Presencial
+A02255;Sabadell; 34 ;4;6.5;47;Online
+A02381;Lleida;32;9;5.9;42;Presencial
+A01050;Barcelona;25;9;8.0;94;Presencial
+A02038;Vic;40;35;0.6;47;Online
+A01451;Barcelona;33;5;3.2;87;Híbrida
+A02152;Reus;41;12;3.0;89;Presencial
+A00195;Tarragona;55;29;;52;Presencial
+A01526;Girona;51;29;2.0;78;Online
+A01112;Vic;28;11;3.7;73;Online
+A01621;Vic;51;33;0.8;81;Híbrida
+A01393;Girona;45;14;0.2;55;Presencial
+A00350;Tarragona;54;5;4.7;52;Presencial
+A01114;Terrassa;19;25;5.9;92;Híbrida
+A01487;Reus;19;34;4.4;72;Presencial
+A01064; Reus  ;19;14;4.6;88;Híbrida
+A01750;Terrassa;57;25;0.8;52;Online
+A01210;Vic;41;26;4.9;93;Presencial
+A00097;   ;61;19;8.8;63;Híbrida
+A00467;Lleida;53;1;7.4;85;Presencial
+A01980;Tarragona;18;6;7.2;94;Online
+A01298;Lleida;-4;21;9.8;66;Híbrida
+A01795;Girona;28;5;6.2;44;Online
+A01795;Girona;28;5;6.2;44;Online
+A01139;Barcelona;;25;13.5;41;Híbrida
+A01538;Sabadell;54;0;5.6;55;Presencial
+A00471;Girona;40;21;2.6;80;Presencial
+A01652;Terrassa;-4;9;8.7;68;Presencial
+A01312;Lleida; 43 ;31;9.6;52;Online
+A02289;Terrassa;48;3;2.0;95;Online
+A00642;Lleida;31;35;2.9;68;Online
+A02492;Terrassa;20;-5;1.2;80;Presencial
+A00419;Mataró;40;4;8.4;62;Presencial
+A00997;Tarragona;48;11;2.2;67;Presencial
+A00315;Terrassa;43;34;3.3;89;Híbrida
+A00468;Mataró;39;3;;91;Híbrida
+A01248;Vic;23;30;;84;Híbrida
+A02153;Lleida;41;5;6.8;69;Online
+A01843;   ;17;4;1.1;81;Online
+A01582;Tarragona;48;12;5.3;42;Presencial
+A01463; Tarragona  ;34;22;6.9;89;Presencial
+A01137;Lleida;34;19;3.2;57;Online
+A00924;Reus;35;1;9.9;42;Presencial
+A02103;Lleida;52;0;5.6;47;Online
+A01400;Vic;54;18;7.7;66;Presencial
+A01606;Mataró;57;21;2.2;135;Presencial
+A02180;Manresa;38;29;3.4;76;Híbrida
+A01395;;36;19;6.6;62;Online
+A02129;Manresa;50;24;3.9;95;Online
+A01918;Girona;58;35;3.3;45;Híbrida
+A02175;Mataró;17;;0.8;91;Online
+A01874;Vic;16;8;0.4;69;Online
+A02319;Barcelona;30;10;9.6;83;Presencial
+A00156;Manresa;16;32;;72;Online
+A01794;Manresa;16;24;;68;  Online 
+A01062;Tarragona;-4;7;0.0;56;Presencial
+A01016;Vic;38;6;9.1;68;Presencial
+A01100;Barcelona;40;14;8.7;95;Híbrida
+A01457;;41;31;8.9;56;
+A00532; Terrassa  ;49;26;0.4;53;Híbrida
+A00410;Terrassa; 21 ;2;0.6;44;Presencial
+A02089;Manresa;34;2;7.1;61;Presencial
+A00275;Barcelona;57;16;5.9;99;Presencial
+A01671;Terrassa;43;32;6.7;76;Online
+A02369;Vic;57;35;5.0;42;  Híbrida 
+A00126;Mataró;29;26;3.3;72;Online
+A02106;Terrassa;48;29;;50;Presencial
+A02283;Barcelona;50;6;8.5;46;Híbrida
+A00710;Terrassa;49;26;-2.0;44;Presencial
+A00441;Girona;21;16;8.3;79;Híbrida
+A02130;Sabadell;20;6;-2.0;95;Presencial
+A02433;Sabadell;20;31;2.7;97;Híbrida
+A02351;Manresa;34;2;3.1;49;Presencial
+A00275;Barcelona;57;16;5.9;99;Presencial
+A00783;Girona;61;;10.0;54;Híbrida
+A00465;;62;10;4.9;83;Presencial
+A00117;Tarragona;32;5;;92;Online
+A01061;Sabadell;59;23;9.8;79;Híbrida
+A02078;Reus;61;20;5.4;58;Online
+A00290;Lleida;29;;8.3;52;Híbrida
+A02380;Lleida;;4;6.6;52;Online
+A00277;Manresa;60;30;0.2;53;Online
+A01287;Girona;29;9;;73;Híbrida
+A02441;Vic;38;22;6.5;87;Online
+A00302;Mataró;38;20;1.6;56;Híbrida
+A02192;Barcelona;23;14;5.3;51;Presencial
+A02212;Tarragona;16;30;1.3;-10;Online
+A01900; Reus  ;29;3;8.0;61;Híbrida
+A01923;Sabadell;53;0;2.8;72;Presencial
+A00096;Barcelona;31;18;4.3;62;Online
+A01576;Reus;49;9;2.6;67;Online
+A00041;Sabadell; 18 ;3;6.0;68;Presencial
+A01935;Barcelona;43;29;8.2;;Presencial
+A01928;Vic;64;10;5.1;46;Online
+A00299;Barcelona;40;32;;63;  Online 
+A00978;Girona;55;24;3.1;62;Presencial
+A01486;Girona;59;3;2.0;83;Híbrida
+A01468;Vic;51;35;5.4;63;Presencial
+A01681;Barcelona; 30 ;32;4.9;54;Online
+A02333;Terrassa;43;21;4.6;60;Presencial
+A00804;Barcelona;19;17;13.5;52;Online
+A00250;Reus;26;27;3.3;87;Presencial
+A01611;Terrassa;47;8;2.1;99;Online
+A01154;Barcelona;44;9;7.9;45;Híbrida
+A00930;;45;31;3.0;45;Online
+A00012;Tarragona;28;30;4.5;84;Híbrida
+A00076; Vic  ;31;11;1.8;66;Híbrida
+A01875;Barcelona;30;32;1.5;61;Online
+A00402;Reus;27;16;13.5;90;Híbrida
+A01380;Tarragona;29;0;5.9;79;  Presencial 
+A01097;Vic;21;25;9.0;80;Online
+A01493;Tarragona;20;12;4.3;59;Online
+A01587;Mataró;50;30;4.3;78;  Presencial 
+A01808;Reus;21;5;6.7;86;Presencial
+A00885;Girona;-4;2;2.3;80;Presencial
+A01394;Barcelona;  ;30;2.1;85;Presencial
+A00607;Reus;32;18;4.5;47;Presencial
+A01205;Lleida;30;2;8.2;53;Online
+A02167;Sabadell;45;23;2.5;77;Híbrida
+A01212;Lleida;47;19;9.3;60;  
+A00863;Mataró;31;13;4.1;92;Híbrida
+A00580;Sabadell;36;;0.5;62;Online
+A01767;   ;25;33;5.1;78;Online
+A00499;Tarragona;28;27;2.0;53;Online
+A02301;Tarragona;-4;33;;41;Híbrida
+A00027;Barcelona;59;5;2.7;53;Online
+A01814;Barcelona;57;11;9.8;85;Online
+A00098;Terrassa;49;18;0.7;70;Presencial
+A02406;Barcelona;45;15;3.0;40;Híbrida
+A02224;Reus;47;33;3.2;79;Presencial
+A00310;;45;12;5.2;79;Híbrida
+A00454;Reus;44;19;7.6;77;Híbrida
+A01680;Girona;40;20;0.3;79;Presencial
+A00431;Barcelona;21;28;4.5;52;Online
+A02225;Tarragona;63;-5;1.8;44;Presencial
+A00763;Manresa;24;12;8.0;100;Híbrida
+A01313;Terrassa;47;15;;52;  
+A01389;Sabadell;38;7;6.8;88;Híbrida
+A00166;Lleida;25;180;6.7;97;Presencial
+A00844;Terrassa;43;3;3.2;41;Híbrida
+A01557;Barcelona;35;7;5.9;67;Híbrida
+A01042;Barcelona;53;0;9.5;90;Presencial
+A02182;Mataró;27;19;4.0;66;Online
+A00741; Sabadell  ;59;20;;69;Online
+A01805; Tarragona  ;55;15;9.7;68;Presencial
+A01882;Terrassa;29;20;1.6;66;Online
+A01590;Manresa;32;31;4.9;43;Online
+A02197;Tarragona;52;23;;88;Presencial
+A02036;Tarragona;53;34;2.9;79;Online
+A00387;Reus;64;21;9.1;;Online
+A00252;Terrassa;60;19;1.6;69;Online
+A00336;Vic;63;32;5.6;52;Híbrida
+A00239;Mataró;16;15;4.9;53;Híbrida
+A01415;Vic;20;19;2.9;69;Presencial
+A00635;Tarragona;38;26;7.8;70;Online
+A00297;Mataró;22;31;5.8;71;Presencial
+A02431;Barcelona;;27;;90;Online
+A00745;Terrassa;30;1;6.7;99;Híbrida
+A02437;Tarragona;27;25;0.8;65;Híbrida
+A01885;Tarragona;26;;;89;Presencial
+A00371;Mataró;53;27;7.4;92;Online
+A00036;Tarragona;30;7;1.7;89;Híbrida
+A01941;Reus;33;15;9.7;93;Online
+A01836;Tarragona;;24;3.9;42;Presencial
+A00697;Manresa;  ;0;0.9;74;Online
+A01240;;40;7;1.5;90;Online
+A01485;Mataró;28;16;2.9;49;Híbrida
+A00960;Sabadell;57;23;0.5;59;Híbrida
+A00653;Tarragona;40;11;4.1;87;Online
+A01834;Mataró;63;35;9.1;81;Híbrida
+A01907;Mataró;24;27;7.0;78;Presencial
+A02345;Terrassa;58;3;13.5;55;Online
+A00138;Vic;54;23;5.8;80;  Híbrida 
+A01787;Mataró;19;26;5.3;40;Híbrida
+A00948;Manresa;37;30;3.1;-10;Híbrida
+A00046;Mataró;39;10;5.7;61;  Híbrida 
+A01528;Manresa;65;1;2.3;59;Híbrida
+A01727;Sabadell;21;33;9.5;58;Híbrida
+A00457;Sabadell;39;32;4.7;75;Online
+A02263;;53;0;7.4;135;Presencial
+A00244;Reus;140;27;4.7;81;Online
+A02404;Manresa;35;23;0.0;51;Presencial
+A01762;Vic;38;33;3.1;43;Presencial
+A00381;Tarragona;17;33;9.0;98;Híbrida
+A00142;Mataró;63;27;-2.0;43;Online
+A00318;Tarragona;29;8;2.5;48;Presencial
+A01719;Sabadell;24;21;6.8;45;Online
+A00630;Terrassa;39;1;7.0;88;Presencial
+A00806;;55;8;;43;Online
+A01245;Tarragona;31;180;6.2;78;Online
+A00050;Barcelona;19;4;3.9;64;Presencial
+A00372;;36;6;7.4;44;Online
+A01957; Manresa  ;35;21;3.5;53;Presencial
+A01635;Lleida;30;29;2.9;77;Presencial
+A00861;Tarragona; 64 ;22;8.9;48;Híbrida
+A00450;Sabadell;43;22;2.1;54;Online
+A01699;Sabadell;24;21;3.3;89;Híbrida
+A02372;Girona;33;32;3.4;73;Online
+A00342; Lleida  ;19;9;1.0;78;Presencial
+A01835;Vic;50;24;5.1;48;Presencial
+A02015;;37;25;;66;Híbrida
+A01361;Terrassa;32;11;8.8;100;Online
+A01742;Lleida;40;18;13.5;65;Presencial
+A00608; Terrassa  ;30;14;6.7;100;Online
+A01903;Sabadell;64;21;6.2;83;Presencial
+A02020;Barcelona;46;6;3.5;91;  
+A00312;Girona;52;2;;62;Híbrida
+A01723;Terrassa;59;13;4.0;56;Online
+A01667;Terrassa;23;10;3.6;89;Online
+A00613;Lleida;19;28;10.0;67;Presencial
+A00878;Lleida;44;29;3.5;51;Online
+A00105;Terrassa;31;1;1.5;47;Presencial
+A00647;Terrassa;21;23;7.5;65;Online
+A02160;Barcelona;35;10;1.2;46;Online
+A00228; Barcelona  ;46;5;9.9;80;Presencial
+A01934;Lleida;17;34;6.4;50;Online
+A00681;Lleida;53;9;5.4;59;Híbrida
+A00493;Manresa;;;0.5;73;Presencial
+A02329;Reus;;0;8.4;46;Presencial
+A00529;Lleida;53;31;1.7;53;  Online 
+A02218;Mataró;55;12;7.5;64;Online
+A01214;Mataró;48;35;6.8;90;Híbrida
+A01035;Girona;51;19;8.6;86;  Presencial 
+A02033; Tarragona  ;41;9;4.8;59;Híbrida
+A00619;Barcelona;51;26;6.6;100;Presencial
+A01735;Vic;48;22;4.4;69;Presencial
+A01715;Lleida;44;18;2.8;73;Online
+A00354;Mataró;-4;24;8.7;89;Híbrida
+A00921;Sabadell;22;1;6.3;45;Presencial
+A00339;Sabadell;40;2;9.2;74;Online
+A00029;Reus;43;;9.8;58;Presencial
+A00169;Girona;41;25;;84;Presencial
+A01020;Tarragona;;18;2.8;96;Online
+A00131;Lleida;35;28;3.1;89;Híbrida
+A00976;Lleida;140;20;1.0;69;Presencial
+A00925;Terrassa;27;6; 3.5 ;62;Online
+A01335;Tarragona;53;-5;1.0;78;Híbrida
+A01826;Tarragona;50;180;3.0;54;Híbrida
+A00033;Manresa;32;23;3.0;60;Híbrida
+A01828;Girona;65;10;7.1;63;Online
+A00368;Manresa;37;33;2.4;51;  Online 
+A01224;Tarragona;;31;2.4;67;Presencial
+A02194;Tarragona;39;25;0.6;71;Online
+A00204;Tarragona;;23;4.3;57;Híbrida
+A00512;Mataró;62;16;5.1;72;Online
+A00687;Tarragona;26;29;2.7;49;Online
+A02005;Mataró;36;18;7.9;100;Presencial
+A00755;Terrassa;63;23;0.3;94;Híbrida
+A01352;Mataró;43;1;;90;Híbrida
+A01279;Sabadell;27;19;0.4;75;Online
+A01840;Girona;18;19;9.4;52;  Online 
+A00909;Sabadell;32;5;8.3;40;  
+A00727;Lleida;63;9;5.3;90;Híbrida
+A01591;Barcelona;47;22; 4.0 ;;Online
+A00432;Tarragona;60;5;2.8;69;Híbrida
+A00280;Terrassa;27;20;7.4;40;Híbrida
+A02467;Mataró;48;14;1.8;46;Híbrida
+A01500;Barcelona;26;20;2.7;79;Híbrida
+A00616;Reus;30;32;6.0;98;Híbrida
+A01462;Girona;;14;6.6;;Online
+A01806;Barcelona;43;24;6.3;;Híbrida
+A01691; Vic  ;54;-5;9.3;85;Online
+A02378;Mataró; 18 ;;4.2;63;Online
+A01718;Terrassa;35;27;2.4;91;Híbrida
+A00770;Girona;22;35;5.5;56;Presencial
+A00649;Terrassa;-4;12;2.5;64;Presencial
+A01693;Tarragona;61;4;6.0;43;Online
+A02191;Manresa;37;19;3.4;66;Online
+A01315;Mataró;35;13;4.6;62;Online
+A01305;Lleida;43;;4.2;58;Online
+A00341;;57;32;6.3;69;Híbrida
+A01303;Reus;32;20;5.6;43;Presencial
+A00488;Tarragona;140;7;8.4;84;Online
+A02393;Terrassa;31;28;4.7;96;Presencial
+A01023;;64;29;0.5;51;Híbrida
+A01329;Barcelona;41;18;0.7;63;Online
+A02466;Lleida;41;6;8.0;82;Presencial
+A00624;Reus;51;7;;72;Presencial
+A00440;Reus;55;6;3.2;70;Híbrida
+A00848;Girona;34;30;8.9;48;Presencial
+A00698;Tarragona;29;21;2.1;43;Presencial
+A01198;Girona;31;23;2.3;74;Híbrida
+A00198;Terrassa;61;17;5.3;81;Híbrida
+A02008;Vic;39;18;2.5;44;Online
+A00593;Vic;26;35;8.4;65;Online
+A02272;Lleida;55;32;-2.0;83;Híbrida
+A01281;Sabadell;140;13;1.1;95;Híbrida
+A02068;Girona;28;30;4.9;41;
+A02029;Lleida;50;10;5.7;81;Híbrida
+A01917;Mataró;25;24;-2.0;86;Híbrida
+A00443;Vic;29;31;0.6;54;Híbrida
+A00300;Manresa;52;32;5.2;70;Híbrida
+A01073;Manresa;63;; 0.3 ;84;Híbrida
+A01180;Girona;-4;34;8.8;84;Online
+A01473;Barcelona;26;3;9.0;83;Presencial
+A01054;;;14;8.9;93;Híbrida
+A00554;Tarragona;64;18;9.6;77;Presencial
+A01187;Mataró;20;26;5.2;65;Híbrida
+A01292; Barcelona  ;;28;4.4;54;Online
+A00742;Mataró;49;14;7.2;45;Presencial
+A01063;Reus;44;34;1.2;97;Híbrida
+A01074;Vic;56;25;4.4;88;Presencial
+A01190;Manresa;;14;1.6;52;Presencial
+A00140;Vic;46;27;6.9;69;Híbrida
+A00775;;25;30;1.2;81;Online
+A00391;Reus;;23;2.1;41;  Híbrida 
+A01765;Lleida;33;34;8.9;98;Online
+A02383;Sabadell;18;8;9.5;87;Híbrida
+A00963;Barcelona;65;33;6.8;92;Híbrida
+A01459;Barcelona;64;32;1.3;79;Online
+A01644;Barcelona;17;16;5.8;89;Presencial
+A02075;Reus;32;180;7.5;71;Presencial
+A01782;Barcelona;50;34;3.0;63;Híbrida
+A00378;Reus;30;27;4.1;72;Presencial
+A00247; Manresa  ;43;21;;44;Online
+A02063;Barcelona;65;25;4.6;51;Presencial
+A01384;Vic;36;21;6.8;75;Online
+A01192;Vic;40;32;0.8;79;Online
+A00379;Sabadell;64;19;0.6;44;Presencial
+A00411;Terrassa;23;5;8.2;87;Híbrida
+A00936;Terrassa;17;16;;80;Online
+A02009;Tarragona; 56 ;16;6.3;81;Online
+A01507;Lleida;20;16;3.7;78;Presencial
+A02031;Sabadell;50;21;7.7;50;Híbrida
+A00215;Tarragona;41;24;8.3;;Híbrida
+A01466;Barcelona;18;25;5.1;64;Online
+A01648;Lleida;40;16;5.5;87;Presencial
+A02497;Sabadell;41;12;8.0;86;Híbrida
+A02200;Tarragona;49;7;3.2;46;Híbrida
+A00170;Terrassa;;0;7.4;71;Presencial
+A02107;Reus;46;6;9.3;;Híbrida
+A00662;Reus;19;17;3.1;83;Presencial
+A00839;Mataró;53;29;4.0;56;Híbrida
+A02488;Tarragona;27;25;8.3;73;Presencial
+A00295;Lleida;-4;6;7.9;54;Online
+A01938; Barcelona  ;;30;8.0;74;Híbrida
+A01559;Sabadell;18;3;0.4;88;Presencial
+A00232;Girona;51;;7.7;54;Híbrida
+A00737;Tarragona;26;20;13.5;42;Presencial
+A01891;;140;24;7.7;76;Presencial
+A01027;Sabadell;34;16;;-10;Híbrida
+A00931; Terrassa  ;18;20;3.5;43;Presencial
+A01181;Sabadell;37;5;2.5;77;Presencial
+A02211;Lleida;65;10;13.5;44;Online
+A01721;Mataró;43;27;0.8;73;Presencial
+A01108;Tarragona;26;14;3.1;66;Presencial
+A01951;Reus;53;29;6.0;95;Online
+A01873;Terrassa;23;23;4.8;64;Híbrida
+A01960;Mataró;56;12;9.9;49;Híbrida
+A02208;Tarragona;65;8;8.8;69;  Híbrida 
+A01580;Manresa;46;15;7.1;-10;Híbrida
+A02124;Terrassa;-4;20;3.3;43;Híbrida
+A01057;Reus;50;2;8.4;89;Presencial
+A01955;Barcelona;;6;5.2;78;  Híbrida 
+A00958;Tarragona;30;19;0.3;98;Online
+A00182;Barcelona;49;22;;57;Online
+A01987;Mataró;51;14;8.0;74;Online
+A01318;Manresa;17;18;6.0;42;Presencial
+A00181;Barcelona;39;3;1.4;47;Presencial
+A02406;Barcelona;45;15;3.0;40;Híbrida
+A01421;Sabadell;40;;4.8;98;Presencial
+A01081;Lleida;49;16;0.7;95;   
+A00515;Mataró;49;31;3.0;64;Híbrida
+A02202;Terrassa;39;26;0.0;96;Online
+A00949;Girona;27;7;;135;Híbrida
+A00207;Lleida;58;11;5.3;47;  Presencial 
+A01223;Terrassa;60;33;8.3;65;Híbrida
+A02066;Reus;35;13;1.4;76;Online
+A00357;Mataró;;5;6.5;86;Online
+A00548;Mataró;52;10;2.8;75;Presencial
+A01145;Lleida;46;2;6.2;96;Híbrida
+A02026;Terrassa;63;22;2.7;45;Presencial
